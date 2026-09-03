@@ -1,0 +1,16 @@
+{
+  "name": "phrase-pocket",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Offline, local-only English phrase review PWA",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node scripts/serve.mjs app 5173",
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs dist/client 4173",
+    "test": "node --test tests/*.test.mjs"
+  }
+}

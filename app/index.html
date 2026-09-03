@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f6f5ef"><meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="apple-mobile-web-app-title" content="词组口袋">
+<meta name="mobile-web-app-capable" content="yes"><meta name="format-detection" content="telephone=no">
+<title>词组口袋 · Phrase Pocket</title><meta name="description" content="一次一个，慢慢变熟。你的离线英语词组复习口袋。">
+<link rel="manifest" href="./manifest.webmanifest"><link rel="icon" href="./favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="./icons/apple-touch-icon.png"><link rel="stylesheet" href="./styles.css">
+<meta property="og:title" content="词组口袋 · Phrase Pocket"><meta property="og:description" content="一次一个，慢慢变熟。你的离线英语词组复习口袋。">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="词组口袋 · Phrase Pocket"><meta name="twitter:description" content="一次一个，慢慢变熟。你的离线英语词组复习口袋。">
+<!-- SOCIAL_PREVIEW -->
+<script type="module" src="./app.js"></script>
+</head>
+<body>
+<main class="app-shell">
+<header class="app-header"><div class="brand"><span class="brand-mark" aria-hidden="true">p.</span><span>词组口袋</span></div><button type="button" id="open-add" class="add-button" aria-label="添加词组">＋</button></header>
+<section class="review-heading"><div><p class="eyebrow">DAILY PRACTICE</p><h1>随机复习</h1></div><span id="phrase-count" class="phrase-count">你的随身词组本</span></section>
+<p id="notice" class="notice" role="alert" hidden></p>
+<section class="review-area" aria-label="随机词组">
+<button type="button" class="phrase-card" id="card" aria-expanded="false" aria-controls="meaning">
+<span class="card-topline"><span>ENGLISH</span><span>词 · 组 · 口 · 袋</span></span>
+<span class="card-body"><span id="english" class="english" aria-live="polite" lang="en">in keeping with</span><span class="card-rule"></span><span id="meaning" class="meaning" hidden>与……一致；符合……</span><span id="reveal-hint" class="reveal-hint">轻点查看中文</span></span>
+<span class="card-bottom" id="card-bottom">先回想，再揭晓</span></button></section>
+<section class="review-controls" aria-label="复习操作">
+<div class="rating-row"><button type="button" id="forgot" class="rating forgotten"><span aria-hidden="true">↶</span>又忘了</button><button type="button" id="remember" class="rating remembered"><span aria-hidden="true">✓</span>记住了</button></div>
+<p id="feedback" class="feedback" role="status" aria-live="polite">选一下，继续下一词。</p></section>
+<footer class="app-footer"><span class="status-dot" aria-hidden="true"></span><span id="offline-status">词组和进度，只留在你的设备</span><button id="apply-update" type="button" class="update-button" hidden>更新</button></footer>
+</main>
+<dialog id="add-dialog" class="add-dialog" aria-labelledby="add-title">
+<form id="add-form" class="add-form">
+<div class="dialog-heading"><div><h2 id="add-title">放进你的口袋</h2><p>记下一个，下次就能复习。</p></div><button type="button" id="close-add" class="close-button" aria-label="关闭添加窗口">×</button></div>
+<label class="form-field" for="new-english">英语词组<input id="new-english" name="english" lang="en" placeholder="例如 in keeping with" autocomplete="off" autocapitalize="none" spellcheck="false" maxlength="160" required></label>
+<label class="form-field" for="new-chinese">中文释义<textarea id="new-chinese" name="chinese" placeholder="例如 与……一致；符合……" maxlength="300" required></textarea></label>
+<p id="form-error" class="form-error" role="alert" hidden></p>
+<div class="form-actions"><button type="button" id="cancel-add" class="cancel-button">取消</button><button type="submit" class="save-button">添加词组</button></div>
+</form></dialog>
+<noscript><p class="notice">请在 Safari 中启用 JavaScript，才能随机复习和保存词组。</p></noscript>
+</body></html>

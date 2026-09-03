@@ -1,0 +1,922 @@
+[
+  {
+    "id": "p001",
+    "page": 1,
+    "english": "apply A to B",
+    "chinese": "把 A 应用于 B；把 A 涂、敷在 B 上",
+    "source": "https://dictionary.cambridge.org/dictionary/english/apply",
+    "note": "A 是方法、知识或物质等；B 是应用对象或表面。"
+  },
+  {
+    "id": "p002",
+    "page": 1,
+    "english": "by then",
+    "chinese": "到那时为止",
+    "source": "https://dictionary.cambridge.org/dictionary/english/then",
+    "note": "by 强调不晚于那个时间。"
+  },
+  {
+    "id": "p003",
+    "page": 1,
+    "english": "prevent sb. from doing sth.",
+    "chinese": "阻止某人做某事",
+    "source": "https://dictionary.cambridge.org/dictionary/english/prevent",
+    "note": "补全结构；from 后用动词 -ing。"
+  },
+  {
+    "id": "p004",
+    "page": 1,
+    "english": "hundred",
+    "chinese": "百；100",
+    "source": "https://dictionary.cambridge.org/dictionary/english/hundred",
+    "note": "具体数字后不加 s，如 two hundred。"
+  },
+  {
+    "id": "p005",
+    "page": 1,
+    "english": "thousand",
+    "chinese": "千；1,000",
+    "source": "https://dictionary.cambridge.org/dictionary/english/thousand",
+    "note": ""
+  },
+  {
+    "id": "p006",
+    "page": 1,
+    "english": "million",
+    "chinese": "百万；1,000,000",
+    "source": "https://dictionary.cambridge.org/dictionary/english/million",
+    "note": "原笔记的数量级需要修正。"
+  },
+  {
+    "id": "p007",
+    "page": 1,
+    "english": "billion",
+    "chinese": "十亿；1,000,000,000（现代常用义）",
+    "source": "https://dictionary.cambridge.org/dictionary/english/billion",
+    "note": "原笔记的“亿”不准确。"
+  },
+  {
+    "id": "p008",
+    "page": 1,
+    "english": "though",
+    "chinese": "虽然；尽管；不过（作副词时）",
+    "source": "https://dictionary.cambridge.org/dictionary/english/though",
+    "note": "与 thought、through、thorough、tough 区分。"
+  },
+  {
+    "id": "p009",
+    "page": 1,
+    "english": "thought",
+    "chinese": "想法；思考；think 的过去式和过去分词",
+    "source": "https://dictionary.cambridge.org/dictionary/english/thought",
+    "note": "不是一概等于“想起”。"
+  },
+  {
+    "id": "p010",
+    "page": 1,
+    "english": "through",
+    "chinese": "穿过；通过；自始至终",
+    "source": "https://dictionary.cambridge.org/dictionary/english/through",
+    "note": ""
+  },
+  {
+    "id": "p011",
+    "page": 1,
+    "english": "thorough",
+    "chinese": "彻底的；全面的；细致的",
+    "source": "https://dictionary.cambridge.org/dictionary/english/thorough",
+    "note": ""
+  },
+  {
+    "id": "p012",
+    "page": 1,
+    "english": "tough",
+    "chinese": "艰难的；坚韧的；强硬的",
+    "source": "https://dictionary.cambridge.org/dictionary/english/tough",
+    "note": ""
+  },
+  {
+    "id": "p013",
+    "page": 1,
+    "english": "at present",
+    "chinese": "目前；现在",
+    "source": "https://dictionary.cambridge.org/dictionary/english/at-present",
+    "note": ""
+  },
+  {
+    "id": "p014",
+    "page": 1,
+    "english": "throughout",
+    "chinese": "遍及；贯穿整个时期；自始至终",
+    "source": "https://dictionary.cambridge.org/dictionary/english/throughout",
+    "note": "兼有空间和时间含义。"
+  },
+  {
+    "id": "p015",
+    "page": 1,
+    "english": "lay waste to sth.",
+    "chinese": "彻底摧毁某物；使某地荒废",
+    "source": "https://dictionary.cambridge.org/dictionary/english/lay-to-waste",
+    "note": "比一般“毁坏”程度更强。"
+  },
+  {
+    "id": "p016",
+    "page": 1,
+    "english": "ensure sth. for sb.",
+    "chinese": "确保某人得到某物",
+    "source": "https://dictionary.cambridge.org/dictionary/english/ensure",
+    "note": "保留原 ensure A for B，明确 A 是事物、B 是人。"
+  },
+  {
+    "id": "p017",
+    "page": 1,
+    "english": "what is now …",
+    "chinese": "如今是……的事物或地方",
+    "source": "https://dictionary.cambridge.org/dictionary/english/what",
+    "note": "原图有“新的东西／情况”痕迹，按英文 now（现在）保留为从句结构；不是 What's new?。"
+  },
+  {
+    "id": "p018",
+    "page": 1,
+    "english": "according to",
+    "chinese": "根据；按照；据……所说",
+    "source": "https://dictionary.cambridge.org/dictionary/english/according-to",
+    "note": ""
+  },
+  {
+    "id": "p019",
+    "page": 1,
+    "english": "based on",
+    "chinese": "以……为依据；基于……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/base-on",
+    "note": ""
+  },
+  {
+    "id": "p020",
+    "page": 1,
+    "english": "after doing sth.",
+    "chinese": "做某事之后",
+    "source": "https://dictionary.cambridge.org/dictionary/english/after",
+    "note": "修正 after 的拼写；省略主语时通常与主句主语一致。"
+  },
+  {
+    "id": "p021",
+    "page": 1,
+    "english": "proposed",
+    "chinese": "被提议的；拟议的；propose 的过去式和过去分词",
+    "source": "https://dictionary.cambridge.org/dictionary/english/proposed",
+    "note": "原图是 proposed，不把词形静默改成 propose。"
+  },
+  {
+    "id": "p022",
+    "page": 1,
+    "english": "little more than …",
+    "chinese": "不过是……；比……多不了多少",
+    "source": "https://dictionary.cambridge.org/dictionary/english/little-more-better",
+    "note": "不同于 a little more than（比……多一点）。"
+  },
+  {
+    "id": "p023",
+    "page": 1,
+    "english": "be known for",
+    "chinese": "因……而出名",
+    "source": "https://dictionary.cambridge.org/dictionary/english/well-known",
+    "note": "修正 be know for。"
+  },
+  {
+    "id": "p024",
+    "page": 1,
+    "english": "anything from A to B",
+    "chinese": "从 A 到 B 的各种可能事物；范围可以从 A 到 B",
+    "source": "https://dictionary.cambridge.org/dictionary/english/anything",
+    "note": "不是指每一次必定包含区间里的所有事物。"
+  },
+  {
+    "id": "p025",
+    "page": 1,
+    "english": "not more than",
+    "chinese": "不超过；至多",
+    "source": "https://dictionary.cambridge.org/dictionary/english/more",
+    "note": ""
+  },
+  {
+    "id": "p026",
+    "page": 1,
+    "english": "meet a need / requirement",
+    "chinese": "满足需求／要求",
+    "source": "https://dictionary.cambridge.org/dictionary/english/meet",
+    "note": "将原 meets“满足”补成可独立学习的搭配。"
+  },
+  {
+    "id": "p027",
+    "page": 1,
+    "english": "account for",
+    "chinese": "占（某比例）；解释……的原因",
+    "source": "https://dictionary.cambridge.org/dictionary/english/account-for",
+    "note": "保留原比例义，同时补充常见解释义；还原动词原形。"
+  },
+  {
+    "id": "p028",
+    "page": 1,
+    "english": "above all",
+    "chinese": "最重要的是；尤其是",
+    "source": "https://dictionary.cambridge.org/dictionary/english/above-all",
+    "note": "不能简单等同于时间顺序上的“首先”。"
+  },
+  {
+    "id": "p029",
+    "page": 1,
+    "english": "run the length of sth.",
+    "chinese": "延伸贯穿某物的全长",
+    "source": "https://www.collinsdictionary.com/dictionary/english/run",
+    "note": "按 runs the length of 还原；原“长度为”不够准确。"
+  },
+  {
+    "id": "p030",
+    "page": 2,
+    "english": "go on to do sth.",
+    "chinese": "接着做另一件事；随后进一步做某事",
+    "source": "https://dictionary.cambridge.org/dictionary/english/go-on",
+    "note": "对比 go on doing sth.：继续做同一件事。"
+  },
+  {
+    "id": "p031",
+    "page": 2,
+    "english": "thermal and acoustic insulation",
+    "chinese": "隔热与隔音",
+    "source": "https://dictionary.cambridge.org/dictionary/english/insulation",
+    "note": "thermal 修饰热；acoustic 修饰声音。"
+  },
+  {
+    "id": "p032",
+    "page": 2,
+    "english": "in pieces",
+    "chinese": "成碎片；散成零块",
+    "source": "https://dictionary.cambridge.org/dictionary/english/in-pieces",
+    "note": "也可形容人精神崩溃；本卡优先保留原物理义。"
+  },
+  {
+    "id": "p033",
+    "page": 2,
+    "english": "ideal for",
+    "chinese": "非常适合……；是……的理想选择",
+    "source": "https://dictionary.cambridge.org/dictionary/english/ideal",
+    "note": ""
+  },
+  {
+    "id": "p034",
+    "page": 2,
+    "english": "due to",
+    "chinese": "由于；因为",
+    "source": "https://dictionary.cambridge.org/dictionary/english/due-to",
+    "note": "原笔记因果义；不与 be due to do（预计／预定做）混淆。"
+  },
+  {
+    "id": "p035",
+    "page": 2,
+    "english": "be caused by",
+    "chinese": "由……引起；由……造成",
+    "source": "https://dictionary.cambridge.org/dictionary/english/cause",
+    "note": ""
+  },
+  {
+    "id": "p036",
+    "page": 2,
+    "english": "as little as …",
+    "chinese": "少至……；仅仅……（强调数量少）",
+    "source": "https://dictionary.cambridge.org/dictionary/english/little",
+    "note": ""
+  },
+  {
+    "id": "p037",
+    "page": 2,
+    "english": "first … and more recently …",
+    "chinese": "最初……，而在较近时期……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/recently",
+    "note": "时间顺序组合表达，不是独立习语。"
+  },
+  {
+    "id": "p038",
+    "page": 2,
+    "english": "in the case of",
+    "chinese": "就……的情况而言；在……这个例子中",
+    "source": "https://dictionary.cambridge.org/dictionary/english/in-the-case-of",
+    "note": "区别 in case of：万一发生……。"
+  },
+  {
+    "id": "p039",
+    "page": 2,
+    "english": "in keeping with",
+    "chinese": "与……一致；符合……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/in-keeping-with",
+    "note": ""
+  },
+  {
+    "id": "p040",
+    "page": 2,
+    "english": "given …",
+    "chinese": "考虑到……；鉴于……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/given",
+    "note": "此处是介词用法。"
+  },
+  {
+    "id": "p041",
+    "page": 2,
+    "english": "be associated with",
+    "chinese": "与……有关；与……联系在一起",
+    "source": "https://dictionary.cambridge.org/dictionary/english/associate",
+    "note": ""
+  },
+  {
+    "id": "p042",
+    "page": 2,
+    "english": "only after …",
+    "chinese": "只有在……之后才……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/after",
+    "note": "句首 only after + 状语常使主句部分倒装。"
+  },
+  {
+    "id": "p043",
+    "page": 2,
+    "english": "rather than",
+    "chinese": "而不是；而非",
+    "source": "https://dictionary.cambridge.org/dictionary/english/rather-than",
+    "note": ""
+  },
+  {
+    "id": "p044",
+    "page": 2,
+    "english": "a variant on / of sth.",
+    "chinese": "某事物的变体；略有不同的形式",
+    "source": "https://www.oxfordlearnersdictionaries.com/us/definition/english/variant_1",
+    "note": "原 variant on 可成立，补上不定冠词。"
+  },
+  {
+    "id": "p045",
+    "page": 2,
+    "english": "bring A into contact with B",
+    "chinese": "使 A 与 B 接触",
+    "source": "https://dictionary.cambridge.org/dictionary/english/contact",
+    "note": ""
+  },
+  {
+    "id": "p046",
+    "page": 2,
+    "english": "inferior to",
+    "chinese": "比……差；不如……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/inferior",
+    "note": "用 to，不用 than。"
+  },
+  {
+    "id": "p047",
+    "page": 2,
+    "english": "what it is",
+    "chinese": "它是什么；它现在的样子或状况",
+    "source": "https://dictionary.cambridge.org/dictionary/english/what",
+    "note": "这是名词性从句片段，不是独立固定词组。"
+  },
+  {
+    "id": "p048",
+    "page": 2,
+    "english": "what it was",
+    "chinese": "它过去是什么；它过去的样子或状况",
+    "source": "https://dictionary.cambridge.org/dictionary/english/what",
+    "note": "保留与 what it is 的时态对照。"
+  },
+  {
+    "id": "p049",
+    "page": 2,
+    "english": "work out",
+    "chinese": "弄懂；算出；解决",
+    "source": "https://dictionary.cambridge.org/dictionary/english/work-out",
+    "note": "按原“弄清楚”保留相关义；另有锻炼、进展等义。"
+  },
+  {
+    "id": "p050",
+    "page": 2,
+    "english": "go beyond",
+    "chinese": "超出……；超过……的范围或限度",
+    "source": "https://dictionary.cambridge.org/dictionary/english/beyond",
+    "note": "原“不局限于”可作为语境译法。"
+  },
+  {
+    "id": "p051",
+    "page": 2,
+    "english": "from A, through B, to C",
+    "chinese": "从 A 经由 B 到 C",
+    "source": "https://dictionary.cambridge.org/dictionary/english/through",
+    "note": "普通介词组合，A/B/C 可为地点、阶段或类别。"
+  },
+  {
+    "id": "p052",
+    "page": 2,
+    "english": "what (= the thing(s) that)",
+    "chinese": "……的事物；所……的东西（引导名词性从句时）",
+    "source": "https://dictionary.cambridge.org/grammar/british-grammar/what",
+    "note": "限定名词性关系从句用法，疑问词 what 不一概如此。"
+  },
+  {
+    "id": "p053",
+    "page": 2,
+    "english": "grow out of",
+    "chinese": "由……逐渐发展而来；因长大而不再适合或不再有",
+    "source": "https://dictionary.cambridge.org/dictionary/english/grow-out-of",
+    "note": "原图只记发展义，补充常见成长义。"
+  },
+  {
+    "id": "p054",
+    "page": 2,
+    "english": "have a lot going for it",
+    "chinese": "有很多优点；具备许多有利条件",
+    "source": "https://dictionary.cambridge.org/dictionary/english/have-going-for",
+    "note": "从“有很多好处”规范为事物本身具备优势。"
+  },
+  {
+    "id": "p055",
+    "page": 3,
+    "english": "you name it",
+    "chinese": "凡是你想得到的（都有）；应有尽有",
+    "source": "https://dictionary.cambridge.org/dictionary/english/you-name-it",
+    "note": "强调种类齐全，并非单纯“你能想到”。"
+  },
+  {
+    "id": "p056",
+    "page": 3,
+    "english": "sign up for",
+    "chinese": "报名参加……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/sign-up",
+    "note": ""
+  },
+  {
+    "id": "p057",
+    "page": 3,
+    "english": "tricks of the trade",
+    "chinese": "某行业的诀窍；内行的门道",
+    "source": "https://dictionary.cambridge.org/dictionary/english/tricks-of-the-trade",
+    "note": "补上原图漏写的 the。"
+  },
+  {
+    "id": "p058",
+    "page": 3,
+    "english": "it is not unknown for sb. to do sth.",
+    "chinese": "某人做某事并非没有先例；这种事有时会发生",
+    "source": "https://www.oxfordlearnersdictionaries.com/us/definition/american_english/unknown_1",
+    "note": "修正 unknown 并补全 for sb. to do 结构。"
+  },
+  {
+    "id": "p059",
+    "page": 3,
+    "english": "take one's cue from",
+    "chinese": "从……得到启示；仿效……的做法",
+    "source": "https://dictionary.cambridge.org/dictionary/english/take-cue-from",
+    "note": "结合中文将 cu… 推定为 cue；my 泛化为 one's，随主语变化。"
+  },
+  {
+    "id": "p060",
+    "page": 3,
+    "english": "kind of",
+    "chinese": "有点；有几分（非正式）",
+    "source": "https://dictionary.cambridge.org/dictionary/english/kind-of",
+    "note": "与名词短语 a kind of 区分。"
+  },
+  {
+    "id": "p061",
+    "page": 3,
+    "english": "a kind of + noun",
+    "chinese": "一种……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/kind",
+    "note": "原 kind of + n. 补全 a kind of；复数可用 kinds of。"
+  },
+  {
+    "id": "p062",
+    "page": 3,
+    "english": "in light of",
+    "chinese": "鉴于……；考虑到……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/in-the-light-of",
+    "note": "美式也常省略 the。"
+  },
+  {
+    "id": "p063",
+    "page": 3,
+    "english": "as such",
+    "chinese": "严格说来；就该事物本身而言；以这种身份",
+    "source": "https://dictionary.cambridge.org/dictionary/english/as-such",
+    "note": "such 通常承接前文身份或类别，不能一概替换 therefore。"
+  },
+  {
+    "id": "p064",
+    "page": 3,
+    "english": "in order to do sth.",
+    "chinese": "为了做某事",
+    "source": "https://dictionary.cambridge.org/dictionary/english/in-order-to",
+    "note": ""
+  },
+  {
+    "id": "p065",
+    "page": 3,
+    "english": "need not do sth.",
+    "chinese": "不必做某事；没有必要做某事",
+    "source": "https://dictionary.cambridge.org/grammar/british-grammar/need",
+    "note": "情态动词 need 后接动词原形，不加 to；不是“禁止”。"
+  },
+  {
+    "id": "p066",
+    "page": 3,
+    "english": "have sth. done",
+    "chinese": "让／请别人做某事；遭遇某事",
+    "source": "https://dictionary.cambridge.org/grammar/british-grammar/have-something-done",
+    "note": "原 have + 东西 + 过去分词；补充 have one's bag stolen 等遭遇义。"
+  },
+  {
+    "id": "p067",
+    "page": 3,
+    "english": "turn out to be",
+    "chinese": "结果是……；原来是……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/turn-out",
+    "note": ""
+  },
+  {
+    "id": "p068",
+    "page": 3,
+    "english": "distinguish A from B",
+    "chinese": "区分 A 与 B；辨别 A 和 B 的不同",
+    "source": "https://dictionary.cambridge.org/dictionary/english/distinguish",
+    "note": ""
+  },
+  {
+    "id": "p069",
+    "page": 3,
+    "english": "be entrenched in",
+    "chinese": "在……中根深蒂固；牢固地存在于……中",
+    "source": "https://dictionary.cambridge.org/dictionary/english/entrenched",
+    "note": "结合“根深蒂固”推定拼写为 entrenched。"
+  },
+  {
+    "id": "p070",
+    "page": 3,
+    "english": "in addition",
+    "chinese": "此外；另外",
+    "source": "https://dictionary.cambridge.org/dictionary/english/in-addition",
+    "note": ""
+  },
+  {
+    "id": "p071",
+    "page": 3,
+    "english": "both A and B",
+    "chinese": "A 和 B 两者都；既……又……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/both",
+    "note": ""
+  },
+  {
+    "id": "p072",
+    "page": 3,
+    "english": "in terms of",
+    "chinese": "就……而言；从……方面来说",
+    "source": "https://dictionary.cambridge.org/dictionary/english/in-terms-of",
+    "note": ""
+  },
+  {
+    "id": "p073",
+    "page": 3,
+    "english": "be prevalent among",
+    "chinese": "在……人群中普遍存在或流行",
+    "source": "https://dictionary.cambridge.org/dictionary/english/prevalent",
+    "note": "among 通常接人群。"
+  },
+  {
+    "id": "p074",
+    "page": 3,
+    "english": "address a problem",
+    "chinese": "着手处理问题；应对问题",
+    "source": "https://dictionary.cambridge.org/dictionary/english/address",
+    "note": "不保证问题已经解决，避免直接背成“解决了”。"
+  },
+  {
+    "id": "p075",
+    "page": 3,
+    "english": "inability to do sth.",
+    "chinese": "无力做某事；不能做某事",
+    "source": "https://dictionary.cambridge.org/dictionary/english/inability",
+    "note": "这是名词短语。"
+  },
+  {
+    "id": "p076",
+    "page": 3,
+    "english": "hold up A as B",
+    "chinese": "把 A 作为 B 的例子或榜样",
+    "source": "https://dictionary.cambridge.org/dictionary/english/hold-up-as",
+    "note": "尤其是作为正面榜样。"
+  },
+  {
+    "id": "p077",
+    "page": 3,
+    "english": "translate into",
+    "chinese": "转化为……；翻译成……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/translate",
+    "note": "保留原“转化成”，补充字面翻译义。"
+  },
+  {
+    "id": "p078",
+    "page": 3,
+    "english": "allow for",
+    "chinese": "考虑到……；为……留出余地；使……成为可能",
+    "source": "https://www.merriam-webster.com/dictionary/allow%20for",
+    "note": "“使成为可能”须看语境；增加考虑、预留的核心常用义。"
+  },
+  {
+    "id": "p079",
+    "page": 3,
+    "english": "be resilient to",
+    "chinese": "能承受……的冲击；受……影响后能恢复",
+    "source": "https://dictionary.cambridge.org/dictionary/english/resilient",
+    "note": "比一般“能抵抗”更强调恢复能力或韧性。"
+  },
+  {
+    "id": "p080",
+    "page": 3,
+    "english": "make use of sth.",
+    "chinese": "利用某物；使用某物",
+    "source": "https://dictionary.cambridge.org/dictionary/english/make-use-of",
+    "note": ""
+  },
+  {
+    "id": "p081",
+    "page": 4,
+    "english": "at the time of",
+    "chinese": "在……发生的时候",
+    "source": "https://dictionary.cambridge.org/dictionary/english/time",
+    "note": ""
+  },
+  {
+    "id": "p082",
+    "page": 4,
+    "english": "all it takes is …",
+    "chinese": "只需要……；所需的不过是……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/take",
+    "note": "is 后根据语境接名词或动词不定式。"
+  },
+  {
+    "id": "p083",
+    "page": 4,
+    "english": "declare A (to be) B",
+    "chinese": "宣布／宣称 A 是 B",
+    "source": "https://dictionary.cambridge.org/dictionary/english/declare",
+    "note": "B 可为名词或形容词。"
+  },
+  {
+    "id": "p084",
+    "page": 4,
+    "english": "to top it all off",
+    "chinese": "更有甚者；最后再加上一件事（可好可坏）",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/to-top-it-all-off",
+    "note": "并不只表示“更糟糕的是”。"
+  },
+  {
+    "id": "p085",
+    "page": 4,
+    "english": "go to work doing sth.",
+    "chinese": "开始着手做某事",
+    "source": "https://www.collinsdictionary.com/dictionary/english/to-get-go-to-work",
+    "note": "原图“着手做”义，不是去工作地点。"
+  },
+  {
+    "id": "p086",
+    "page": 4,
+    "english": "be intent on doing sth.",
+    "chinese": "一心想做某事；决意做某事",
+    "source": "https://dictionary.cambridge.org/dictionary/english/intent",
+    "note": "补全 be；intent on 后用 -ing。"
+  },
+  {
+    "id": "p087",
+    "page": 4,
+    "english": "be to do with",
+    "chinese": "与……有关",
+    "source": "https://www.merriam-webster.com/dictionary/be%20to%20do%20with",
+    "note": "原结构可成立，也常见 have to do with。"
+  },
+  {
+    "id": "p088",
+    "page": 4,
+    "english": "result in",
+    "chinese": "导致……；造成……结果",
+    "source": "https://dictionary.cambridge.org/dictionary/english/result-in",
+    "note": ""
+  },
+  {
+    "id": "p089",
+    "page": 4,
+    "english": "the role … plays in …",
+    "chinese": "……在……中发挥的作用",
+    "source": "https://dictionary.cambridge.org/dictionary/english/role",
+    "note": "原 the role … has in … 可依语境理解；规范为常用搭配 play a role in。"
+  },
+  {
+    "id": "p090",
+    "page": 4,
+    "english": "A is identical to B",
+    "chinese": "A 与 B 完全相同",
+    "source": "https://dictionary.cambridge.org/dictionary/english/identical",
+    "note": ""
+  },
+  {
+    "id": "p091",
+    "page": 4,
+    "english": "in response to",
+    "chinese": "作为对……的回应；响应……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/response",
+    "note": "修正 response 拼写。"
+  },
+  {
+    "id": "p092",
+    "page": 4,
+    "english": "range from A to B",
+    "chinese": "范围从 A 到 B；介于 A 与 B 之间",
+    "source": "https://dictionary.cambridge.org/dictionary/english/range",
+    "note": "原 ranging 还原为原形 range。"
+  },
+  {
+    "id": "p093",
+    "page": 4,
+    "english": "point to A as B",
+    "chinese": "指出 A 是 B；把 A 作为 B 的证据或例子提出",
+    "source": "https://dictionary.cambridge.org/dictionary/english/point-to-towards",
+    "note": "按指出／证据义整理，不能简单等同于“认为”。"
+  },
+  {
+    "id": "p094",
+    "page": 4,
+    "english": "be intended to do sth.",
+    "chinese": "旨在做某事；被设计用来做某事",
+    "source": "https://dictionary.cambridge.org/dictionary/english/intend",
+    "note": "原 be intend to do 修正为 be intended to do；区分 intend to do（打算做）。"
+  },
+  {
+    "id": "p095",
+    "page": 4,
+    "english": "in doing so",
+    "chinese": "在这样做时；通过这样做",
+    "source": "https://dictionary.cambridge.org/dictionary/english/so",
+    "note": ""
+  },
+  {
+    "id": "p096",
+    "page": 4,
+    "english": "from A to B",
+    "chinese": "从 A 到 B（表示起止、变化或范围）",
+    "source": "https://dictionary.cambridge.org/dictionary/english/from",
+    "note": "结构本身不必然表示“范围很大”。"
+  },
+  {
+    "id": "p097",
+    "page": 4,
+    "english": "take a turn at doing sth.",
+    "chinese": "轮到或轮流参与做某事一次",
+    "source": "https://www.ahdictionary.com/word/search.html?q=turn",
+    "note": "保留 a turn；take turns doing sth. 强调多人轮流。"
+  },
+  {
+    "id": "p098",
+    "page": 4,
+    "english": "relative to",
+    "chinese": "相对于……；与……相比；关于……",
+    "source": "https://dictionary.cambridge.org/dictionary/english/relative",
+    "note": ""
+  },
+  {
+    "id": "p099",
+    "page": 4,
+    "english": "by doing sth.",
+    "chinese": "通过做某事；以做某事的方式",
+    "source": "https://dictionary.cambridge.org/dictionary/english/by",
+    "note": "by 后接动词 -ing。"
+  },
+  {
+    "id": "p100",
+    "page": 4,
+    "english": "be true for / of sb. or sth.",
+    "chinese": "对某人或某事同样成立；同样适用",
+    "source": "https://dictionary.cambridge.org/dictionary/english/true",
+    "note": "常见搭配 the same is true of/for。"
+  },
+  {
+    "id": "p101",
+    "page": 4,
+    "english": "such that …",
+    "chinese": "使得……；其情况或程度达到……（引出结果或条件）",
+    "source": "https://www.merriam-webster.com/dictionary/such",
+    "note": "不等同于表目的的 in order that；区别 such + 名词 + that。"
+  },
+  {
+    "id": "p102",
+    "page": 4,
+    "english": "at any point",
+    "chinese": "在任何时刻；在任何阶段或位置",
+    "source": "https://dictionary.cambridge.org/dictionary/english/point",
+    "note": ""
+  },
+  {
+    "id": "p103",
+    "page": 4,
+    "english": "end up doing sth.",
+    "chinese": "最终做了某事；到头来做了某事",
+    "source": "https://dictionary.cambridge.org/dictionary/english/end-up",
+    "note": "常暗示并非原先计划的结果。"
+  },
+  {
+    "id": "p104",
+    "page": 4,
+    "english": "twice as many + plural noun + as …",
+    "chinese": "……的数量是……的两倍（接可数名词复数）",
+    "source": "https://dictionary.cambridge.org/grammar/british-grammar/as-as",
+    "note": "数量两倍；不是增加两倍。"
+  },
+  {
+    "id": "p105",
+    "page": 5,
+    "english": "convince sb. of sth.",
+    "chinese": "使某人确信某事；让某人相信……",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/convince",
+    "note": "结合中文，将首词规范为 convince；of 后接名词性内容。"
+  },
+  {
+    "id": "p106",
+    "page": 5,
+    "english": "reviews",
+    "chinese": "评论文章；书评、影评等（review 的复数）",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/review",
+    "note": "按笔记保留名词复数；这里不是动词“复习”的意思。"
+  },
+  {
+    "id": "p107",
+    "page": 5,
+    "english": "in the press",
+    "chinese": "在报刊上；在新闻媒体的报道中",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/in-the-press",
+    "note": "将手写 pres 规范为 press；不是单独的“新闻”。"
+  },
+  {
+    "id": "p108",
+    "page": 5,
+    "english": "there are calls for sth.",
+    "chinese": "有人呼吁／要求……",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/call",
+    "note": "原文 There were calls for 为过去时；卡片整理为可复用的现在时句型，讲过去的事仍用 were。"
+  },
+  {
+    "id": "p109",
+    "page": 5,
+    "english": "bear little resemblance to sth.",
+    "chinese": "与某事物几乎不相像；几乎没有相似之处",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/resemblance",
+    "note": "规范 resemblance 拼写；little 是“几乎没有”，不是完全没有。"
+  },
+  {
+    "id": "p110",
+    "page": 5,
+    "english": "turn A into B",
+    "chinese": "把 A 变成 B",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/turn-into",
+    "note": "保留原笔记结构；A、B 表示可替换的人或事物。"
+  },
+  {
+    "id": "p111",
+    "page": 5,
+    "english": "owe sth. to sb./sth.",
+    "chinese": "把某事的发生或成就归因于／归功于某人或某事",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/owe-to",
+    "note": "对应笔记的因果义，不能笼统翻成“受……影响”；owe 另外还有“欠”的含义，要看宾语与语境。"
+  },
+  {
+    "id": "p112",
+    "page": 5,
+    "english": "develop A into B",
+    "chinese": "把 A 逐步发展或改造成 B",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/develop",
+    "note": "将原 developed 规范为原形；原句若为过去时仍需 developed。"
+  },
+  {
+    "id": "p113",
+    "page": 5,
+    "english": "X-intensive",
+    "chinese": "需要大量 X 投入的；X 密集型的（如 labour-intensive：劳动密集型的）",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/labour-intensive",
+    "note": "构词模式；X 应为适合搭配的资源或投入，如 labour、capital、energy，并非任意名词都自然。"
+  },
+  {
+    "id": "p114",
+    "page": 5,
+    "english": "pay for sth. outright",
+    "chinese": "一次性付清某物的全部价款",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/outright",
+    "note": "补全常用结构；限定在付款语境，outright 还有完全、立即等其他义项。"
+  },
+  {
+    "id": "p115",
+    "page": 5,
+    "english": "pay for sth. in instalments",
+    "chinese": "分期支付某物的价款（美式拼写：installments）",
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/pay-for-in-instalments",
+    "note": "原笔记写 pay over＝分期付款。该片段不足以表达此义，可能省略了 time 或时间段；未据此断定原句。按中文意图改用明确的词典搭配。"
+  }
+]
