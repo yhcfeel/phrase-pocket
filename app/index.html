@@ -20,9 +20,9 @@
 <section class="review-heading"><div><p class="eyebrow">DAILY PRACTICE</p><h1>随机复习</h1></div><span id="phrase-count" class="phrase-count">你的随身词组本</span></section>
 <p id="notice" class="notice" role="alert" hidden></p>
 <section class="review-area" aria-label="随机词组">
-<button type="button" class="phrase-card" id="card" aria-expanded="false" aria-controls="meaning">
+<button type="button" class="phrase-card" id="card" aria-expanded="false" aria-controls="meaning example">
 <span class="card-topline"><span>ENGLISH</span><span>词 · 组 · 口 · 袋</span></span>
-<span class="card-body"><span id="english" class="english" aria-live="polite" lang="en">in keeping with</span><span class="card-rule"></span><span id="meaning" class="meaning" hidden>与……一致；符合……</span><span id="reveal-hint" class="reveal-hint">轻点查看中文</span></span>
+<span class="card-body"><span id="phrase-line" class="phrase-line"><span id="english" class="english" aria-live="polite" lang="en">in keeping with</span></span><span class="card-rule"></span><span id="meaning" class="meaning" hidden>与……一致；符合……</span><span id="example" class="example" hidden><span class="example-label">用在句子里</span><span id="example-english" class="example-english" lang="en"></span><span id="example-chinese" class="example-chinese" lang="zh-CN"></span></span><span id="reveal-hint" class="reveal-hint">轻点查看释义与例句</span></span>
 <span class="card-bottom" id="card-bottom">先回想，再揭晓</span></button></section>
 <section class="review-controls" aria-label="复习操作">
 <div class="rating-row"><button type="button" id="forgot" class="rating forgotten"><span aria-hidden="true">↶</span>又忘了</button><button type="button" id="remember" class="rating remembered"><span aria-hidden="true">✓</span>记住了</button></div>
@@ -34,6 +34,7 @@
 <div class="dialog-heading"><div><h2 id="add-title">放进你的口袋</h2><p>记下一个，下次就能复习。</p></div><button type="button" id="close-add" class="close-button" aria-label="关闭添加窗口">×</button></div>
 <label class="form-field" for="new-english">英语词组<input id="new-english" name="english" lang="en" placeholder="例如 in keeping with" autocomplete="off" autocapitalize="none" spellcheck="false" maxlength="160" required></label>
 <label class="form-field" for="new-chinese">中文释义<textarea id="new-chinese" name="chinese" placeholder="例如 与……一致；符合……" maxlength="300" required></textarea></label>
+<details class="example-fields"><summary>添加例句与翻译（选填）</summary><label class="form-field" for="new-example-english">英文例句<textarea id="new-example-english" name="exampleEnglish" lang="en" placeholder="写一句你想记住的话" maxlength="500"></textarea></label><label class="form-field" for="new-example-chinese">例句翻译<textarea id="new-example-chinese" name="exampleChinese" placeholder="对应的中文意思" maxlength="500"></textarea></label></details>
 <p id="form-error" class="form-error" role="alert" hidden></p>
 <div class="form-actions"><button type="button" id="cancel-add" class="cancel-button">取消</button><button type="submit" class="save-button">添加词组</button></div>
 </form></dialog>

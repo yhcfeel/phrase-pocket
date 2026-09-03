@@ -5,7 +5,15 @@
     "english": "apply A to B",
     "chinese": "把 A 应用于 B；把 A 涂、敷在 B 上",
     "source": "https://dictionary.cambridge.org/dictionary/english/apply",
-    "note": "A 是方法、知识或物质等；B 是应用对象或表面。"
+    "note": "A 是方法、知识或物质等；B 是应用对象或表面。",
+    "example": {
+      "english": "Try to apply this rule to your own writing.",
+      "chinese": "试着把这条规则应用到你自己的写作中。",
+      "highlights": [
+        "apply",
+        "to"
+      ]
+    }
   },
   {
     "id": "p002",
@@ -13,7 +21,14 @@
     "english": "by then",
     "chinese": "到那时为止",
     "source": "https://dictionary.cambridge.org/dictionary/english/then",
-    "note": "by 强调不晚于那个时间。"
+    "note": "by 强调不晚于那个时间。",
+    "example": {
+      "english": "The train leaves at six, so we must be ready by then.",
+      "chinese": "火车六点出发，所以我们到那时必须准备好。",
+      "highlights": [
+        "by then"
+      ]
+    }
   },
   {
     "id": "p003",
@@ -21,7 +36,15 @@
     "english": "prevent sb. from doing sth.",
     "chinese": "阻止某人做某事",
     "source": "https://dictionary.cambridge.org/dictionary/english/prevent",
-    "note": "补全结构；from 后用动词 -ing。"
+    "note": "补全结构；from 后用动词 -ing。",
+    "example": {
+      "english": "The heavy snow prevented us from leaving the village.",
+      "chinese": "大雪使我们无法离开村庄。",
+      "highlights": [
+        "prevented",
+        "from leaving"
+      ]
+    }
   },
   {
     "id": "p004",
@@ -29,7 +52,14 @@
     "english": "hundred",
     "chinese": "百；100",
     "source": "https://dictionary.cambridge.org/dictionary/english/hundred",
-    "note": "具体数字后不加 s，如 two hundred。"
+    "note": "具体数字后不加 s，如 two hundred。",
+    "example": {
+      "english": "There are one hundred seats in this small theatre.",
+      "chinese": "这座小剧院有一百个座位。",
+      "highlights": [
+        "hundred"
+      ]
+    }
   },
   {
     "id": "p005",
@@ -37,7 +67,14 @@
     "english": "thousand",
     "chinese": "千；1,000",
     "source": "https://dictionary.cambridge.org/dictionary/english/thousand",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "More than a thousand people visited the exhibition.",
+      "chinese": "一千多人参观了这场展览。",
+      "highlights": [
+        "thousand"
+      ]
+    }
   },
   {
     "id": "p006",
@@ -45,7 +82,14 @@
     "english": "million",
     "chinese": "百万；1,000,000",
     "source": "https://dictionary.cambridge.org/dictionary/english/million",
-    "note": "原笔记的数量级需要修正。"
+    "note": "原笔记的数量级需要修正。",
+    "example": {
+      "english": "The game reached a million downloads in one month.",
+      "chinese": "这款游戏一个月内的下载量达到了一百万次。",
+      "highlights": [
+        "million"
+      ]
+    }
   },
   {
     "id": "p007",
@@ -53,7 +97,14 @@
     "english": "billion",
     "chinese": "十亿；1,000,000,000（现代常用义）",
     "source": "https://dictionary.cambridge.org/dictionary/english/billion",
-    "note": "原笔记的“亿”不准确。"
+    "note": "原笔记的“亿”不准确。",
+    "example": {
+      "english": "The proposed railway could cost two billion dollars.",
+      "chinese": "这条拟建铁路可能耗资二十亿美元。",
+      "highlights": [
+        "billion"
+      ]
+    }
   },
   {
     "id": "p008",
@@ -61,7 +112,14 @@
     "english": "though",
     "chinese": "虽然；尽管；不过（作副词时）",
     "source": "https://dictionary.cambridge.org/dictionary/english/though",
-    "note": "与 thought、through、thorough、tough 区分。"
+    "note": "与 thought、through、thorough、tough 区分。",
+    "example": {
+      "english": "Though the room was small, it felt warm and welcoming.",
+      "chinese": "虽然房间很小，却让人觉得温暖而舒适。",
+      "highlights": [
+        "Though"
+      ]
+    }
   },
   {
     "id": "p009",
@@ -69,7 +127,14 @@
     "english": "thought",
     "chinese": "想法；思考；think 的过去式和过去分词",
     "source": "https://dictionary.cambridge.org/dictionary/english/thought",
-    "note": "不是一概等于“想起”。"
+    "note": "不是一概等于“想起”。",
+    "example": {
+      "english": "A strange thought came to me on the bus.",
+      "chinese": "我在公交车上突然冒出了一个奇怪的想法。",
+      "highlights": [
+        "thought"
+      ]
+    }
   },
   {
     "id": "p010",
@@ -77,7 +142,14 @@
     "english": "through",
     "chinese": "穿过；通过；自始至终",
     "source": "https://dictionary.cambridge.org/dictionary/english/through",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "We walked through the tunnel and came out beside a river.",
+      "chinese": "我们穿过隧道，来到一条河边。",
+      "highlights": [
+        "through"
+      ]
+    }
   },
   {
     "id": "p011",
@@ -85,7 +157,14 @@
     "english": "thorough",
     "chinese": "彻底的；全面的；细致的",
     "source": "https://dictionary.cambridge.org/dictionary/english/thorough",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "The mechanic gave the old car a thorough check.",
+      "chinese": "修理工对这辆旧车做了一次全面检查。",
+      "highlights": [
+        "thorough"
+      ]
+    }
   },
   {
     "id": "p012",
@@ -93,7 +172,14 @@
     "english": "tough",
     "chinese": "艰难的；坚韧的；强硬的",
     "source": "https://dictionary.cambridge.org/dictionary/english/tough",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "Moving to a new city was tough at first.",
+      "chinese": "刚搬到一个新城市时，日子很不容易。",
+      "highlights": [
+        "tough"
+      ]
+    }
   },
   {
     "id": "p013",
@@ -101,7 +187,14 @@
     "english": "at present",
     "chinese": "目前；现在",
     "source": "https://dictionary.cambridge.org/dictionary/english/at-present",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "The library is closed for repairs at present.",
+      "chinese": "图书馆目前因维修而关闭。",
+      "highlights": [
+        "at present"
+      ]
+    }
   },
   {
     "id": "p014",
@@ -109,7 +202,14 @@
     "english": "throughout",
     "chinese": "遍及；贯穿整个时期；自始至终",
     "source": "https://dictionary.cambridge.org/dictionary/english/throughout",
-    "note": "兼有空间和时间含义。"
+    "note": "兼有空间和时间含义。",
+    "example": {
+      "english": "She stayed calm throughout the interview.",
+      "chinese": "她在整个面试过程中都保持冷静。",
+      "highlights": [
+        "throughout"
+      ]
+    }
   },
   {
     "id": "p015",
@@ -117,7 +217,14 @@
     "english": "lay waste to sth.",
     "chinese": "彻底摧毁某物；使某地荒废",
     "source": "https://dictionary.cambridge.org/dictionary/english/lay-to-waste",
-    "note": "比一般“毁坏”程度更强。"
+    "note": "比一般“毁坏”程度更强。",
+    "example": {
+      "english": "The wildfire laid waste to a large area of forest.",
+      "chinese": "这场野火彻底毁坏了一大片森林。",
+      "highlights": [
+        "laid waste to"
+      ]
+    }
   },
   {
     "id": "p016",
@@ -125,7 +232,15 @@
     "english": "ensure sth. for sb.",
     "chinese": "确保某人得到某物",
     "source": "https://dictionary.cambridge.org/dictionary/english/ensure",
-    "note": "保留原 ensure A for B，明确 A 是事物、B 是人。"
+    "note": "保留原 ensure A for B，明确 A 是事物、B 是人。",
+    "example": {
+      "english": "The scholarship will ensure a place at the school for her.",
+      "chinese": "这份奖学金将确保她获得该校的入学名额。",
+      "highlights": [
+        "ensure",
+        "for"
+      ]
+    }
   },
   {
     "id": "p017",
@@ -133,7 +248,14 @@
     "english": "what is now …",
     "chinese": "如今是……的事物或地方",
     "source": "https://dictionary.cambridge.org/dictionary/english/what",
-    "note": "原图有“新的东西／情况”痕迹，按英文 now（现在）保留为从句结构；不是 What's new?。"
+    "note": "原图有“新的东西／情况”痕迹，按英文 now（现在）保留为从句结构；不是 What's new?。",
+    "example": {
+      "english": "The family once lived in what is now a museum.",
+      "chinese": "这家人曾住在一栋如今已成为博物馆的建筑里。",
+      "highlights": [
+        "what is now"
+      ]
+    }
   },
   {
     "id": "p018",
@@ -141,7 +263,14 @@
     "english": "according to",
     "chinese": "根据；按照；据……所说",
     "source": "https://dictionary.cambridge.org/dictionary/english/according-to",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "According to the timetable, the last bus leaves at ten.",
+      "chinese": "根据时刻表，末班车十点发车。",
+      "highlights": [
+        "According to"
+      ]
+    }
   },
   {
     "id": "p019",
@@ -149,7 +278,14 @@
     "english": "based on",
     "chinese": "以……为依据；基于……",
     "source": "https://dictionary.cambridge.org/dictionary/english/base-on",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "The film is based on a novel I read at school.",
+      "chinese": "这部电影改编自我上学时读过的一部小说。",
+      "highlights": [
+        "based on"
+      ]
+    }
   },
   {
     "id": "p020",
@@ -157,7 +293,14 @@
     "english": "after doing sth.",
     "chinese": "做某事之后",
     "source": "https://dictionary.cambridge.org/dictionary/english/after",
-    "note": "修正 after 的拼写；省略主语时通常与主句主语一致。"
+    "note": "修正 after 的拼写；省略主语时通常与主句主语一致。",
+    "example": {
+      "english": "After finishing her homework, she went for a walk.",
+      "chinese": "做完作业后，她出去散了散步。",
+      "highlights": [
+        "After finishing"
+      ]
+    }
   },
   {
     "id": "p021",
@@ -165,7 +308,14 @@
     "english": "proposed",
     "chinese": "被提议的；拟议的；propose 的过去式和过去分词",
     "source": "https://dictionary.cambridge.org/dictionary/english/proposed",
-    "note": "原图是 proposed，不把词形静默改成 propose。"
+    "note": "原图是 proposed，不把词形静默改成 propose。",
+    "example": {
+      "english": "Residents are discussing the proposed new bridge.",
+      "chinese": "居民们正在讨论拟建的新桥。",
+      "highlights": [
+        "proposed"
+      ]
+    }
   },
   {
     "id": "p022",
@@ -173,7 +323,14 @@
     "english": "little more than …",
     "chinese": "不过是……；比……多不了多少",
     "source": "https://dictionary.cambridge.org/dictionary/english/little-more-better",
-    "note": "不同于 a little more than（比……多一点）。"
+    "note": "不同于 a little more than（比……多一点）。",
+    "example": {
+      "english": "The old shed was little more than a roof on four posts.",
+      "chinese": "那座旧棚子不过是四根柱子撑着一个屋顶。",
+      "highlights": [
+        "little more than"
+      ]
+    }
   },
   {
     "id": "p023",
@@ -181,7 +338,14 @@
     "english": "be known for",
     "chinese": "因……而出名",
     "source": "https://dictionary.cambridge.org/dictionary/english/well-known",
-    "note": "修正 be know for。"
+    "note": "修正 be know for。",
+    "example": {
+      "english": "This village is known for its colourful pottery.",
+      "chinese": "这个村庄因色彩鲜艳的陶器而出名。",
+      "highlights": [
+        "is known for"
+      ]
+    }
   },
   {
     "id": "p024",
@@ -189,7 +353,15 @@
     "english": "anything from A to B",
     "chinese": "从 A 到 B 的各种可能事物；范围可以从 A 到 B",
     "source": "https://dictionary.cambridge.org/dictionary/english/anything",
-    "note": "不是指每一次必定包含区间里的所有事物。"
+    "note": "不是指每一次必定包含区间里的所有事物。",
+    "example": {
+      "english": "The repair could take anything from an hour to a whole day.",
+      "chinese": "维修所需的时间可能是一小时，也可能长达一整天。",
+      "highlights": [
+        "anything from",
+        "to"
+      ]
+    }
   },
   {
     "id": "p025",
@@ -197,7 +369,14 @@
     "english": "not more than",
     "chinese": "不超过；至多",
     "source": "https://dictionary.cambridge.org/dictionary/english/more",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "Please bring not more than two bags onto the bus.",
+      "chinese": "上车时请携带不超过两个包。",
+      "highlights": [
+        "not more than"
+      ]
+    }
   },
   {
     "id": "p026",
@@ -205,7 +384,14 @@
     "english": "meet a need / requirement",
     "chinese": "满足需求／要求",
     "source": "https://dictionary.cambridge.org/dictionary/english/meet",
-    "note": "将原 meets“满足”补成可独立学习的搭配。"
+    "note": "将原 meets“满足”补成可独立学习的搭配。",
+    "example": {
+      "english": "The new evening classes meet a need for flexible study.",
+      "chinese": "新开设的夜间课程满足了灵活学习的需求。",
+      "highlights": [
+        "meet a need"
+      ]
+    }
   },
   {
     "id": "p027",
@@ -213,7 +399,14 @@
     "english": "account for",
     "chinese": "占（某比例）；解释……的原因",
     "source": "https://dictionary.cambridge.org/dictionary/english/account-for",
-    "note": "保留原比例义，同时补充常见解释义；还原动词原形。"
+    "note": "保留原比例义，同时补充常见解释义；还原动词原形。",
+    "example": {
+      "english": "Online orders account for half of the shop's sales.",
+      "chinese": "线上订单占这家店销售额的一半。",
+      "highlights": [
+        "account for"
+      ]
+    }
   },
   {
     "id": "p028",
@@ -221,7 +414,14 @@
     "english": "above all",
     "chinese": "最重要的是；尤其是",
     "source": "https://dictionary.cambridge.org/dictionary/english/above-all",
-    "note": "不能简单等同于时间顺序上的“首先”。"
+    "note": "不能简单等同于时间顺序上的“首先”。",
+    "example": {
+      "english": "Choose shoes that fit well and, above all, feel comfortable.",
+      "chinese": "要选合脚的鞋，最重要的是穿着舒服。",
+      "highlights": [
+        "above all"
+      ]
+    }
   },
   {
     "id": "p029",
@@ -229,7 +429,14 @@
     "english": "run the length of sth.",
     "chinese": "延伸贯穿某物的全长",
     "source": "https://www.collinsdictionary.com/dictionary/english/run",
-    "note": "按 runs the length of 还原；原“长度为”不够准确。"
+    "note": "按 runs the length of 还原；原“长度为”不够准确。",
+    "example": {
+      "english": "A narrow balcony runs the length of the apartment.",
+      "chinese": "一条狭窄的阳台沿着公寓延伸，贯穿其全长。",
+      "highlights": [
+        "runs the length of"
+      ]
+    }
   },
   {
     "id": "p030",
@@ -237,7 +444,14 @@
     "english": "go on to do sth.",
     "chinese": "接着做另一件事；随后进一步做某事",
     "source": "https://dictionary.cambridge.org/dictionary/english/go-on",
-    "note": "对比 go on doing sth.：继续做同一件事。"
+    "note": "对比 go on doing sth.：继续做同一件事。",
+    "example": {
+      "english": "She studied biology and then went on to become a teacher.",
+      "chinese": "她学习了生物学，后来成为了一名教师。",
+      "highlights": [
+        "went on to become"
+      ]
+    }
   },
   {
     "id": "p031",
@@ -245,7 +459,14 @@
     "english": "thermal and acoustic insulation",
     "chinese": "隔热与隔音",
     "source": "https://dictionary.cambridge.org/dictionary/english/insulation",
-    "note": "thermal 修饰热；acoustic 修饰声音。"
+    "note": "thermal 修饰热；acoustic 修饰声音。",
+    "example": {
+      "english": "The new wall panels provide thermal and acoustic insulation.",
+      "chinese": "新的墙板能够隔热和隔音。",
+      "highlights": [
+        "thermal and acoustic insulation"
+      ]
+    }
   },
   {
     "id": "p032",
@@ -253,7 +474,14 @@
     "english": "in pieces",
     "chinese": "成碎片；散成零块",
     "source": "https://dictionary.cambridge.org/dictionary/english/in-pieces",
-    "note": "也可形容人精神崩溃；本卡优先保留原物理义。"
+    "note": "也可形容人精神崩溃；本卡优先保留原物理义。",
+    "example": {
+      "english": "I dropped the cup, and it landed in pieces on the floor.",
+      "chinese": "我把杯子摔了，它落在地上碎成了几块。",
+      "highlights": [
+        "in pieces"
+      ]
+    }
   },
   {
     "id": "p033",
@@ -261,7 +489,14 @@
     "english": "ideal for",
     "chinese": "非常适合……；是……的理想选择",
     "source": "https://dictionary.cambridge.org/dictionary/english/ideal",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "This quiet room is ideal for reading.",
+      "chinese": "这个安静的房间非常适合阅读。",
+      "highlights": [
+        "ideal for"
+      ]
+    }
   },
   {
     "id": "p034",
@@ -269,7 +504,14 @@
     "english": "due to",
     "chinese": "由于；因为",
     "source": "https://dictionary.cambridge.org/dictionary/english/due-to",
-    "note": "原笔记因果义；不与 be due to do（预计／预定做）混淆。"
+    "note": "原笔记因果义；不与 be due to do（预计／预定做）混淆。",
+    "example": {
+      "english": "The match was cancelled due to heavy rain.",
+      "chinese": "比赛因大雨而取消了。",
+      "highlights": [
+        "due to"
+      ]
+    }
   },
   {
     "id": "p035",
@@ -277,7 +519,14 @@
     "english": "be caused by",
     "chinese": "由……引起；由……造成",
     "source": "https://dictionary.cambridge.org/dictionary/english/cause",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "The delay was caused by a broken signal.",
+      "chinese": "这次延误是由信号设备故障造成的。",
+      "highlights": [
+        "was caused by"
+      ]
+    }
   },
   {
     "id": "p036",
@@ -285,7 +534,14 @@
     "english": "as little as …",
     "chinese": "少至……；仅仅……（强调数量少）",
     "source": "https://dictionary.cambridge.org/dictionary/english/little",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "You can practise for as little as five minutes a day.",
+      "chinese": "你每天只练习五分钟也可以。",
+      "highlights": [
+        "as little as"
+      ]
+    }
   },
   {
     "id": "p037",
@@ -293,7 +549,15 @@
     "english": "first … and more recently …",
     "chinese": "最初……，而在较近时期……",
     "source": "https://dictionary.cambridge.org/dictionary/english/recently",
-    "note": "时间顺序组合表达，不是独立习语。"
+    "note": "时间顺序组合表达，不是独立习语。",
+    "example": {
+      "english": "She worked first in a café and more recently in a bookshop.",
+      "chinese": "她最初在咖啡馆工作，最近则在一家书店工作。",
+      "highlights": [
+        "first",
+        "and more recently"
+      ]
+    }
   },
   {
     "id": "p038",
@@ -301,7 +565,14 @@
     "english": "in the case of",
     "chinese": "就……的情况而言；在……这个例子中",
     "source": "https://dictionary.cambridge.org/dictionary/english/in-the-case-of",
-    "note": "区别 in case of：万一发生……。"
+    "note": "区别 in case of：万一发生……。",
+    "example": {
+      "english": "In the case of this old house, repairs may cost more than rebuilding.",
+      "chinese": "就这栋老房子的情况而言，修缮可能比重建更贵。",
+      "highlights": [
+        "In the case of"
+      ]
+    }
   },
   {
     "id": "p039",
@@ -309,7 +580,14 @@
     "english": "in keeping with",
     "chinese": "与……一致；符合……",
     "source": "https://dictionary.cambridge.org/dictionary/english/in-keeping-with",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "The wooden sign is in keeping with the style of the café.",
+      "chinese": "这块木制招牌与咖啡馆的风格一致。",
+      "highlights": [
+        "in keeping with"
+      ]
+    }
   },
   {
     "id": "p040",
@@ -317,7 +595,14 @@
     "english": "given …",
     "chinese": "考虑到……；鉴于……",
     "source": "https://dictionary.cambridge.org/dictionary/english/given",
-    "note": "此处是介词用法。"
+    "note": "此处是介词用法。",
+    "example": {
+      "english": "Given the short deadline, we should keep the plan simple.",
+      "chinese": "考虑到时间紧迫，我们应该让计划保持简单。",
+      "highlights": [
+        "Given"
+      ]
+    }
   },
   {
     "id": "p041",
@@ -325,7 +610,14 @@
     "english": "be associated with",
     "chinese": "与……有关；与……联系在一起",
     "source": "https://dictionary.cambridge.org/dictionary/english/associate",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "The smell of bread is associated with happy memories of home.",
+      "chinese": "面包的香味与家中美好的回忆联系在一起。",
+      "highlights": [
+        "is associated with"
+      ]
+    }
   },
   {
     "id": "p042",
@@ -333,7 +625,14 @@
     "english": "only after …",
     "chinese": "只有在……之后才……",
     "source": "https://dictionary.cambridge.org/dictionary/english/after",
-    "note": "句首 only after + 状语常使主句部分倒装。"
+    "note": "句首 only after + 状语常使主句部分倒装。",
+    "example": {
+      "english": "Only after reading the instructions did I understand the game.",
+      "chinese": "我只有在读完说明之后，才明白这个游戏怎么玩。",
+      "highlights": [
+        "Only after"
+      ]
+    }
   },
   {
     "id": "p043",
@@ -341,7 +640,14 @@
     "english": "rather than",
     "chinese": "而不是；而非",
     "source": "https://dictionary.cambridge.org/dictionary/english/rather-than",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "We took the stairs rather than waiting for the lift.",
+      "chinese": "我们走了楼梯，而没有等电梯。",
+      "highlights": [
+        "rather than"
+      ]
+    }
   },
   {
     "id": "p044",
@@ -349,7 +655,14 @@
     "english": "a variant on / of sth.",
     "chinese": "某事物的变体；略有不同的形式",
     "source": "https://www.oxfordlearnersdictionaries.com/us/definition/english/variant_1",
-    "note": "原 variant on 可成立，补上不定冠词。"
+    "note": "原 variant on 可成立，补上不定冠词。",
+    "example": {
+      "english": "Her recipe is a variant on a traditional soup.",
+      "chinese": "她的食谱是一种传统汤品的改良版本。",
+      "highlights": [
+        "a variant on"
+      ]
+    }
   },
   {
     "id": "p045",
@@ -357,7 +670,15 @@
     "english": "bring A into contact with B",
     "chinese": "使 A 与 B 接触",
     "source": "https://dictionary.cambridge.org/dictionary/english/contact",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "The workshop brings young designers into contact with local craftspeople.",
+      "chinese": "这场工作坊让年轻设计师有机会接触当地手艺人。",
+      "highlights": [
+        "brings",
+        "into contact with"
+      ]
+    }
   },
   {
     "id": "p046",
@@ -365,7 +686,14 @@
     "english": "inferior to",
     "chinese": "比……差；不如……",
     "source": "https://dictionary.cambridge.org/dictionary/english/inferior",
-    "note": "用 to，不用 than。"
+    "note": "用 to，不用 than。",
+    "example": {
+      "english": "The cheaper camera is inferior to the other one in low light.",
+      "chinese": "在弱光条件下，这台便宜的相机不如另一台。",
+      "highlights": [
+        "inferior to"
+      ]
+    }
   },
   {
     "id": "p047",
@@ -373,7 +701,14 @@
     "english": "what it is",
     "chinese": "它是什么；它现在的样子或状况",
     "source": "https://dictionary.cambridge.org/dictionary/english/what",
-    "note": "这是名词性从句片段，不是独立固定词组。"
+    "note": "这是名词性从句片段，不是独立固定词组。",
+    "example": {
+      "english": "The café is not perfect, but I like it for what it is.",
+      "chinese": "这家咖啡馆并不完美，但我喜欢它本来的样子。",
+      "highlights": [
+        "what it is"
+      ]
+    }
   },
   {
     "id": "p048",
@@ -381,7 +716,14 @@
     "english": "what it was",
     "chinese": "它过去是什么；它过去的样子或状况",
     "source": "https://dictionary.cambridge.org/dictionary/english/what",
-    "note": "保留与 what it is 的时态对照。"
+    "note": "保留与 what it is 的时态对照。",
+    "example": {
+      "english": "The quiet village is very different from what it was ten years ago.",
+      "chinese": "这个安静的村庄与十年前的样子大不相同。",
+      "highlights": [
+        "what it was"
+      ]
+    }
   },
   {
     "id": "p049",
@@ -389,7 +731,14 @@
     "english": "work out",
     "chinese": "弄懂；算出；解决",
     "source": "https://dictionary.cambridge.org/dictionary/english/work-out",
-    "note": "按原“弄清楚”保留相关义；另有锻炼、进展等义。"
+    "note": "按原“弄清楚”保留相关义；另有锻炼、进展等义。",
+    "example": {
+      "english": "We finally worked out why the printer kept stopping.",
+      "chinese": "我们终于弄清了打印机为何总是停止工作。",
+      "highlights": [
+        "worked out"
+      ]
+    }
   },
   {
     "id": "p050",
@@ -397,7 +746,14 @@
     "english": "go beyond",
     "chinese": "超出……；超过……的范围或限度",
     "source": "https://dictionary.cambridge.org/dictionary/english/beyond",
-    "note": "原“不局限于”可作为语境译法。"
+    "note": "原“不局限于”可作为语境译法。",
+    "example": {
+      "english": "Her answer went beyond the question and raised a new issue.",
+      "chinese": "她的回答超出了原问题的范围，又提出了一个新问题。",
+      "highlights": [
+        "went beyond"
+      ]
+    }
   },
   {
     "id": "p051",
@@ -405,7 +761,16 @@
     "english": "from A, through B, to C",
     "chinese": "从 A 经由 B 到 C",
     "source": "https://dictionary.cambridge.org/dictionary/english/through",
-    "note": "普通介词组合，A/B/C 可为地点、阶段或类别。"
+    "note": "普通介词组合，A/B/C 可为地点、阶段或类别。",
+    "example": {
+      "english": "The path leads from the gate, through the garden, to the lake.",
+      "chinese": "这条小路从大门出发，穿过花园，通向湖边。",
+      "highlights": [
+        "from",
+        "through",
+        "to"
+      ]
+    }
   },
   {
     "id": "p052",
@@ -413,7 +778,14 @@
     "english": "what (= the thing(s) that)",
     "chinese": "……的事物；所……的东西（引导名词性从句时）",
     "source": "https://dictionary.cambridge.org/grammar/british-grammar/what",
-    "note": "限定名词性关系从句用法，疑问词 what 不一概如此。"
+    "note": "限定名词性关系从句用法，疑问词 what 不一概如此。",
+    "example": {
+      "english": "I wrote down what she said so I would not forget it.",
+      "chinese": "我把她说的话记了下来，以免忘记。",
+      "highlights": [
+        "what"
+      ]
+    }
   },
   {
     "id": "p053",
@@ -421,7 +793,14 @@
     "english": "grow out of",
     "chinese": "由……逐渐发展而来；因长大而不再适合或不再有",
     "source": "https://dictionary.cambridge.org/dictionary/english/grow-out-of",
-    "note": "原图只记发展义，补充常见成长义。"
+    "note": "原图只记发展义，补充常见成长义。",
+    "example": {
+      "english": "The reading club grew out of a weekly chat between friends.",
+      "chinese": "这个读书会由朋友们每周的一次聊天逐渐发展而来。",
+      "highlights": [
+        "grew out of"
+      ]
+    }
   },
   {
     "id": "p054",
@@ -429,7 +808,14 @@
     "english": "have a lot going for it",
     "chinese": "有很多优点；具备许多有利条件",
     "source": "https://dictionary.cambridge.org/dictionary/english/have-going-for",
-    "note": "从“有很多好处”规范为事物本身具备优势。"
+    "note": "从“有很多好处”规范为事物本身具备优势。",
+    "example": {
+      "english": "The flat has a lot going for it: sunlight, space and a great location.",
+      "chinese": "这套公寓有很多优点：阳光充足、空间宽敞，而且位置很好。",
+      "highlights": [
+        "has a lot going for it"
+      ]
+    }
   },
   {
     "id": "p055",
@@ -437,7 +823,14 @@
     "english": "you name it",
     "chinese": "凡是你想得到的（都有）；应有尽有",
     "source": "https://dictionary.cambridge.org/dictionary/english/you-name-it",
-    "note": "强调种类齐全，并非单纯“你能想到”。"
+    "note": "强调种类齐全，并非单纯“你能想到”。",
+    "example": {
+      "english": "The market sells bread, flowers, books; you name it.",
+      "chinese": "这个市场卖面包、鲜花、书籍，凡是你想得到的都有。",
+      "highlights": [
+        "you name it"
+      ]
+    }
   },
   {
     "id": "p056",
@@ -445,7 +838,14 @@
     "english": "sign up for",
     "chinese": "报名参加……",
     "source": "https://dictionary.cambridge.org/dictionary/english/sign-up",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "I decided to sign up for a weekend cooking class.",
+      "chinese": "我决定报名参加周末的烹饪课。",
+      "highlights": [
+        "sign up for"
+      ]
+    }
   },
   {
     "id": "p057",
@@ -453,7 +853,14 @@
     "english": "tricks of the trade",
     "chinese": "某行业的诀窍；内行的门道",
     "source": "https://dictionary.cambridge.org/dictionary/english/tricks-of-the-trade",
-    "note": "补上原图漏写的 the。"
+    "note": "补上原图漏写的 the。",
+    "example": {
+      "english": "The experienced baker taught me a few tricks of the trade.",
+      "chinese": "那位经验丰富的面包师教了我一些行内诀窍。",
+      "highlights": [
+        "tricks of the trade"
+      ]
+    }
   },
   {
     "id": "p058",
@@ -461,7 +868,15 @@
     "english": "it is not unknown for sb. to do sth.",
     "chinese": "某人做某事并非没有先例；这种事有时会发生",
     "source": "https://www.oxfordlearnersdictionaries.com/us/definition/american_english/unknown_1",
-    "note": "修正 unknown 并补全 for sb. to do 结构。"
+    "note": "修正 unknown 并补全 for sb. to do 结构。",
+    "example": {
+      "english": "It is not unknown for him to miss a deadline.",
+      "chinese": "他有时也会错过截止日期。",
+      "highlights": [
+        "It is not unknown for",
+        "to miss"
+      ]
+    }
   },
   {
     "id": "p059",
@@ -469,7 +884,14 @@
     "english": "take one's cue from",
     "chinese": "从……得到启示；仿效……的做法",
     "source": "https://dictionary.cambridge.org/dictionary/english/take-cue-from",
-    "note": "结合中文将 cu… 推定为 cue；my 泛化为 one's，随主语变化。"
+    "note": "结合中文将 cu… 推定为 cue；my 泛化为 one's，随主语变化。",
+    "example": {
+      "english": "I took my cue from the other guests and removed my shoes.",
+      "chinese": "我照着其他客人的做法，脱下了鞋子。",
+      "highlights": [
+        "took my cue from"
+      ]
+    }
   },
   {
     "id": "p060",
@@ -477,7 +899,14 @@
     "english": "kind of",
     "chinese": "有点；有几分（非正式）",
     "source": "https://dictionary.cambridge.org/dictionary/english/kind-of",
-    "note": "与名词短语 a kind of 区分。"
+    "note": "与名词短语 a kind of 区分。",
+    "example": {
+      "english": "I was kind of nervous before the interview.",
+      "chinese": "面试前我有点紧张。",
+      "highlights": [
+        "kind of"
+      ]
+    }
   },
   {
     "id": "p061",
@@ -485,7 +914,14 @@
     "english": "a kind of + noun",
     "chinese": "一种……",
     "source": "https://dictionary.cambridge.org/dictionary/english/kind",
-    "note": "原 kind of + n. 补全 a kind of；复数可用 kinds of。"
+    "note": "原 kind of + n. 补全 a kind of；复数可用 kinds of。",
+    "example": {
+      "english": "A kayak is a kind of small boat.",
+      "chinese": "皮划艇是一种小型船只。",
+      "highlights": [
+        "a kind of"
+      ]
+    }
   },
   {
     "id": "p062",
@@ -493,7 +929,14 @@
     "english": "in light of",
     "chinese": "鉴于……；考虑到……",
     "source": "https://dictionary.cambridge.org/dictionary/english/in-the-light-of",
-    "note": "美式也常省略 the。"
+    "note": "美式也常省略 the。",
+    "example": {
+      "english": "In light of the forecast, we moved the picnic indoors.",
+      "chinese": "考虑到天气预报，我们把野餐改到了室内。",
+      "highlights": [
+        "In light of"
+      ]
+    }
   },
   {
     "id": "p063",
@@ -501,7 +944,14 @@
     "english": "as such",
     "chinese": "严格说来；就该事物本身而言；以这种身份",
     "source": "https://dictionary.cambridge.org/dictionary/english/as-such",
-    "note": "such 通常承接前文身份或类别，不能一概替换 therefore。"
+    "note": "such 通常承接前文身份或类别，不能一概替换 therefore。",
+    "example": {
+      "english": "I don't have an office as such; I work at the kitchen table.",
+      "chinese": "我没有严格意义上的办公室；我在厨房的餐桌旁工作。",
+      "highlights": [
+        "as such"
+      ]
+    }
   },
   {
     "id": "p064",
@@ -509,7 +959,14 @@
     "english": "in order to do sth.",
     "chinese": "为了做某事",
     "source": "https://dictionary.cambridge.org/dictionary/english/in-order-to",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "We left early in order to avoid the traffic.",
+      "chinese": "为了避开拥堵，我们早早出发了。",
+      "highlights": [
+        "in order to avoid"
+      ]
+    }
   },
   {
     "id": "p065",
@@ -517,7 +974,14 @@
     "english": "need not do sth.",
     "chinese": "不必做某事；没有必要做某事",
     "source": "https://dictionary.cambridge.org/grammar/british-grammar/need",
-    "note": "情态动词 need 后接动词原形，不加 to；不是“禁止”。"
+    "note": "情态动词 need 后接动词原形，不加 to；不是“禁止”。",
+    "example": {
+      "english": "You need not bring any tools; we provide everything.",
+      "chinese": "你不必带任何工具；我们会提供所需的一切。",
+      "highlights": [
+        "need not bring"
+      ]
+    }
   },
   {
     "id": "p066",
@@ -525,7 +989,15 @@
     "english": "have sth. done",
     "chinese": "让／请别人做某事；遭遇某事",
     "source": "https://dictionary.cambridge.org/grammar/british-grammar/have-something-done",
-    "note": "原 have + 东西 + 过去分词；补充 have one's bag stolen 等遭遇义。"
+    "note": "原 have + 东西 + 过去分词；补充 have one's bag stolen 等遭遇义。",
+    "example": {
+      "english": "I'm going to have my bicycle repaired this weekend.",
+      "chinese": "这个周末我打算请人修理自行车。",
+      "highlights": [
+        "have",
+        "repaired"
+      ]
+    }
   },
   {
     "id": "p067",
@@ -533,7 +1005,14 @@
     "english": "turn out to be",
     "chinese": "结果是……；原来是……",
     "source": "https://dictionary.cambridge.org/dictionary/english/turn-out",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "The missing key turned out to be in my coat pocket.",
+      "chinese": "那把找不到的钥匙原来在我的外套口袋里。",
+      "highlights": [
+        "turned out to be"
+      ]
+    }
   },
   {
     "id": "p068",
@@ -541,7 +1020,15 @@
     "english": "distinguish A from B",
     "chinese": "区分 A 与 B；辨别 A 和 B 的不同",
     "source": "https://dictionary.cambridge.org/dictionary/english/distinguish",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "Can you distinguish the original from the copy?",
+      "chinese": "你能区分原件和复制品吗？",
+      "highlights": [
+        "distinguish",
+        "from"
+      ]
+    }
   },
   {
     "id": "p069",
@@ -549,7 +1036,14 @@
     "english": "be entrenched in",
     "chinese": "在……中根深蒂固；牢固地存在于……中",
     "source": "https://dictionary.cambridge.org/dictionary/english/entrenched",
-    "note": "结合“根深蒂固”推定拼写为 entrenched。"
+    "note": "结合“根深蒂固”推定拼写为 entrenched。",
+    "example": {
+      "english": "These habits are entrenched in our daily routines.",
+      "chinese": "这些习惯在我们的日常生活中根深蒂固。",
+      "highlights": [
+        "are entrenched in"
+      ]
+    }
   },
   {
     "id": "p070",
@@ -557,7 +1051,14 @@
     "english": "in addition",
     "chinese": "此外；另外",
     "source": "https://dictionary.cambridge.org/dictionary/english/in-addition",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "The room is bright. In addition, it has a balcony.",
+      "chinese": "这个房间很明亮，此外还带有一个阳台。",
+      "highlights": [
+        "In addition"
+      ]
+    }
   },
   {
     "id": "p071",
@@ -565,7 +1066,15 @@
     "english": "both A and B",
     "chinese": "A 和 B 两者都；既……又……",
     "source": "https://dictionary.cambridge.org/dictionary/english/both",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "The course covers both speaking and writing.",
+      "chinese": "这门课程既涵盖口语，也涵盖写作。",
+      "highlights": [
+        "both",
+        "and"
+      ]
+    }
   },
   {
     "id": "p072",
@@ -573,7 +1082,14 @@
     "english": "in terms of",
     "chinese": "就……而言；从……方面来说",
     "source": "https://dictionary.cambridge.org/dictionary/english/in-terms-of",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "In terms of price, the two options are almost identical.",
+      "chinese": "就价格而言，这两种选择几乎没有区别。",
+      "highlights": [
+        "In terms of"
+      ]
+    }
   },
   {
     "id": "p073",
@@ -581,7 +1097,14 @@
     "english": "be prevalent among",
     "chinese": "在……人群中普遍存在或流行",
     "source": "https://dictionary.cambridge.org/dictionary/english/prevalent",
-    "note": "among 通常接人群。"
+    "note": "among 通常接人群。",
+    "example": {
+      "english": "Online shopping is prevalent among the people in our survey.",
+      "chinese": "网上购物在我们调查的人群中很普遍。",
+      "highlights": [
+        "is prevalent among"
+      ]
+    }
   },
   {
     "id": "p074",
@@ -589,7 +1112,15 @@
     "english": "address a problem",
     "chinese": "着手处理问题；应对问题",
     "source": "https://dictionary.cambridge.org/dictionary/english/address",
-    "note": "不保证问题已经解决，避免直接背成“解决了”。"
+    "note": "不保证问题已经解决，避免直接背成“解决了”。",
+    "example": {
+      "english": "We need to address the parking problem before it gets worse.",
+      "chinese": "我们需要在停车问题变得更严重之前着手处理它。",
+      "highlights": [
+        "address",
+        "problem"
+      ]
+    }
   },
   {
     "id": "p075",
@@ -597,7 +1128,14 @@
     "english": "inability to do sth.",
     "chinese": "无力做某事；不能做某事",
     "source": "https://dictionary.cambridge.org/dictionary/english/inability",
-    "note": "这是名词短语。"
+    "note": "这是名词短语。",
+    "example": {
+      "english": "His inability to swim made him nervous near deep water.",
+      "chinese": "他不会游泳，因此靠近深水时会紧张。",
+      "highlights": [
+        "inability to swim"
+      ]
+    }
   },
   {
     "id": "p076",
@@ -605,7 +1143,15 @@
     "english": "hold up A as B",
     "chinese": "把 A 作为 B 的例子或榜样",
     "source": "https://dictionary.cambridge.org/dictionary/english/hold-up-as",
-    "note": "尤其是作为正面榜样。"
+    "note": "尤其是作为正面榜样。",
+    "example": {
+      "english": "The coach held up her teamwork as an example to us all.",
+      "chinese": "教练把她的团队合作精神作为我们所有人的榜样。",
+      "highlights": [
+        "held up",
+        "as"
+      ]
+    }
   },
   {
     "id": "p077",
@@ -613,7 +1159,14 @@
     "english": "translate into",
     "chinese": "转化为……；翻译成……",
     "source": "https://dictionary.cambridge.org/dictionary/english/translate",
-    "note": "保留原“转化成”，补充字面翻译义。"
+    "note": "保留原“转化成”，补充字面翻译义。",
+    "example": {
+      "english": "More practice can translate into greater confidence.",
+      "chinese": "更多的练习可以转化为更强的自信心。",
+      "highlights": [
+        "translate into"
+      ]
+    }
   },
   {
     "id": "p078",
@@ -621,7 +1174,14 @@
     "english": "allow for",
     "chinese": "考虑到……；为……留出余地；使……成为可能",
     "source": "https://www.merriam-webster.com/dictionary/allow%20for",
-    "note": "“使成为可能”须看语境；增加考虑、预留的核心常用义。"
+    "note": "“使成为可能”须看语境；增加考虑、预留的核心常用义。",
+    "example": {
+      "english": "Allow for heavy traffic when planning your journey.",
+      "chinese": "规划行程时，要把交通拥堵考虑在内。",
+      "highlights": [
+        "Allow for"
+      ]
+    }
   },
   {
     "id": "p079",
@@ -629,7 +1189,14 @@
     "english": "be resilient to",
     "chinese": "能承受……的冲击；受……影响后能恢复",
     "source": "https://dictionary.cambridge.org/dictionary/english/resilient",
-    "note": "比一般“能抵抗”更强调恢复能力或韧性。"
+    "note": "比一般“能抵抗”更强调恢复能力或韧性。",
+    "example": {
+      "english": "These plants are resilient to sudden changes in temperature.",
+      "chinese": "这些植物能承受气温骤变的影响。",
+      "highlights": [
+        "are resilient to"
+      ]
+    }
   },
   {
     "id": "p080",
@@ -637,7 +1204,14 @@
     "english": "make use of sth.",
     "chinese": "利用某物；使用某物",
     "source": "https://dictionary.cambridge.org/dictionary/english/make-use-of",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "We can make use of the empty room for meetings.",
+      "chinese": "我们可以利用这个空房间开会。",
+      "highlights": [
+        "make use of"
+      ]
+    }
   },
   {
     "id": "p081",
@@ -645,7 +1219,14 @@
     "english": "at the time of",
     "chinese": "在……发生的时候",
     "source": "https://dictionary.cambridge.org/dictionary/english/time",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "I was asleep at the time of the phone call.",
+      "chinese": "电话打来时，我正在睡觉。",
+      "highlights": [
+        "at the time of"
+      ]
+    }
   },
   {
     "id": "p082",
@@ -653,7 +1234,14 @@
     "english": "all it takes is …",
     "chinese": "只需要……；所需的不过是……",
     "source": "https://dictionary.cambridge.org/dictionary/english/take",
-    "note": "is 后根据语境接名词或动词不定式。"
+    "note": "is 后根据语境接名词或动词不定式。",
+    "example": {
+      "english": "All it takes is a few minutes of practice each day.",
+      "chinese": "只需要每天练习几分钟就可以了。",
+      "highlights": [
+        "All it takes is"
+      ]
+    }
   },
   {
     "id": "p083",
@@ -661,7 +1249,15 @@
     "english": "declare A (to be) B",
     "chinese": "宣布／宣称 A 是 B",
     "source": "https://dictionary.cambridge.org/dictionary/english/declare",
-    "note": "B 可为名词或形容词。"
+    "note": "B 可为名词或形容词。",
+    "example": {
+      "english": "The judges declared her to be the winner.",
+      "chinese": "评委宣布她是获胜者。",
+      "highlights": [
+        "declared",
+        "to be"
+      ]
+    }
   },
   {
     "id": "p084",
@@ -669,7 +1265,14 @@
     "english": "to top it all off",
     "chinese": "更有甚者；最后再加上一件事（可好可坏）",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/to-top-it-all-off",
-    "note": "并不只表示“更糟糕的是”。"
+    "note": "并不只表示“更糟糕的是”。",
+    "example": {
+      "english": "I missed the bus and, to top it all off, it started raining.",
+      "chinese": "我错过了公交车，更糟的是，天又开始下雨了。",
+      "highlights": [
+        "to top it all off"
+      ]
+    }
   },
   {
     "id": "p085",
@@ -677,7 +1280,14 @@
     "english": "go to work doing sth.",
     "chinese": "开始着手做某事",
     "source": "https://www.collinsdictionary.com/dictionary/english/to-get-go-to-work",
-    "note": "原图“着手做”义，不是去工作地点。"
+    "note": "原图“着手做”义，不是去工作地点。",
+    "example": {
+      "english": "The volunteers went to work clearing the paths.",
+      "chinese": "志愿者们开始着手清理小路。",
+      "highlights": [
+        "went to work clearing"
+      ]
+    }
   },
   {
     "id": "p086",
@@ -685,7 +1295,14 @@
     "english": "be intent on doing sth.",
     "chinese": "一心想做某事；决意做某事",
     "source": "https://dictionary.cambridge.org/dictionary/english/intent",
-    "note": "补全 be；intent on 后用 -ing。"
+    "note": "补全 be；intent on 后用 -ing。",
+    "example": {
+      "english": "She is intent on finishing the course before summer.",
+      "chinese": "她决意在夏天之前完成这门课程。",
+      "highlights": [
+        "is intent on finishing"
+      ]
+    }
   },
   {
     "id": "p087",
@@ -693,7 +1310,14 @@
     "english": "be to do with",
     "chinese": "与……有关",
     "source": "https://www.merriam-webster.com/dictionary/be%20to%20do%20with",
-    "note": "原结构可成立，也常见 have to do with。"
+    "note": "原结构可成立，也常见 have to do with。",
+    "example": {
+      "english": "The problem is to do with the software, not the screen.",
+      "chinese": "这个问题与软件有关，而不是屏幕的问题。",
+      "highlights": [
+        "is to do with"
+      ]
+    }
   },
   {
     "id": "p088",
@@ -701,7 +1325,14 @@
     "english": "result in",
     "chinese": "导致……；造成……结果",
     "source": "https://dictionary.cambridge.org/dictionary/english/result-in",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "A small mistake can result in hours of extra work.",
+      "chinese": "一个小错误可能导致额外花上好几个小时的工作。",
+      "highlights": [
+        "result in"
+      ]
+    }
   },
   {
     "id": "p089",
@@ -709,7 +1340,15 @@
     "english": "the role … plays in …",
     "chinese": "……在……中发挥的作用",
     "source": "https://dictionary.cambridge.org/dictionary/english/role",
-    "note": "原 the role … has in … 可依语境理解；规范为常用搭配 play a role in。"
+    "note": "原 the role … has in … 可依语境理解；规范为常用搭配 play a role in。",
+    "example": {
+      "english": "The study examines the role sleep plays in learning.",
+      "chinese": "这项研究考察睡眠在学习中发挥的作用。",
+      "highlights": [
+        "the role",
+        "plays in"
+      ]
+    }
   },
   {
     "id": "p090",
@@ -717,7 +1356,14 @@
     "english": "A is identical to B",
     "chinese": "A 与 B 完全相同",
     "source": "https://dictionary.cambridge.org/dictionary/english/identical",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "My suitcase is identical to yours, so I added a red ribbon.",
+      "chinese": "我的行李箱和你的一模一样，所以我系了一条红丝带。",
+      "highlights": [
+        "is identical to"
+      ]
+    }
   },
   {
     "id": "p091",
@@ -725,7 +1371,14 @@
     "english": "in response to",
     "chinese": "作为对……的回应；响应……",
     "source": "https://dictionary.cambridge.org/dictionary/english/response",
-    "note": "修正 response 拼写。"
+    "note": "修正 response 拼写。",
+    "example": {
+      "english": "The café added more seats in response to customer requests.",
+      "chinese": "咖啡馆应顾客的要求增加了座位。",
+      "highlights": [
+        "in response to"
+      ]
+    }
   },
   {
     "id": "p092",
@@ -733,7 +1386,15 @@
     "english": "range from A to B",
     "chinese": "范围从 A 到 B；介于 A 与 B 之间",
     "source": "https://dictionary.cambridge.org/dictionary/english/range",
-    "note": "原 ranging 还原为原形 range。"
+    "note": "原 ranging 还原为原形 range。",
+    "example": {
+      "english": "The visitors' ages range from eighteen to eighty.",
+      "chinese": "参观者的年龄从十八岁到八十岁不等。",
+      "highlights": [
+        "range from",
+        "to"
+      ]
+    }
   },
   {
     "id": "p093",
@@ -741,7 +1402,15 @@
     "english": "point to A as B",
     "chinese": "指出 A 是 B；把 A 作为 B 的证据或例子提出",
     "source": "https://dictionary.cambridge.org/dictionary/english/point-to-towards",
-    "note": "按指出／证据义整理，不能简单等同于“认为”。"
+    "note": "按指出／证据义整理，不能简单等同于“认为”。",
+    "example": {
+      "english": "She pointed to the empty shelves as evidence of strong demand.",
+      "chinese": "她指出，空空的货架就是需求旺盛的证据。",
+      "highlights": [
+        "pointed to",
+        "as"
+      ]
+    }
   },
   {
     "id": "p094",
@@ -749,7 +1418,14 @@
     "english": "be intended to do sth.",
     "chinese": "旨在做某事；被设计用来做某事",
     "source": "https://dictionary.cambridge.org/dictionary/english/intend",
-    "note": "原 be intend to do 修正为 be intended to do；区分 intend to do（打算做）。"
+    "note": "原 be intend to do 修正为 be intended to do；区分 intend to do（打算做）。",
+    "example": {
+      "english": "This guide is intended to help new students settle in.",
+      "chinese": "这份指南旨在帮助新生适应新环境。",
+      "highlights": [
+        "is intended to help"
+      ]
+    }
   },
   {
     "id": "p095",
@@ -757,7 +1433,14 @@
     "english": "in doing so",
     "chinese": "在这样做时；通过这样做",
     "source": "https://dictionary.cambridge.org/dictionary/english/so",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "He repaired the chair and, in doing so, learned a useful skill.",
+      "chinese": "他修好了椅子，并在这个过程中学会了一项实用技能。",
+      "highlights": [
+        "in doing so"
+      ]
+    }
   },
   {
     "id": "p096",
@@ -765,7 +1448,15 @@
     "english": "from A to B",
     "chinese": "从 A 到 B（表示起止、变化或范围）",
     "source": "https://dictionary.cambridge.org/dictionary/english/from",
-    "note": "结构本身不必然表示“范围很大”。"
+    "note": "结构本身不必然表示“范围很大”。",
+    "example": {
+      "english": "The shop is open from nine to six.",
+      "chinese": "这家店的营业时间是九点到六点。",
+      "highlights": [
+        "from",
+        "to"
+      ]
+    }
   },
   {
     "id": "p097",
@@ -773,7 +1464,14 @@
     "english": "take a turn at doing sth.",
     "chinese": "轮到或轮流参与做某事一次",
     "source": "https://www.ahdictionary.com/word/search.html?q=turn",
-    "note": "保留 a turn；take turns doing sth. 强调多人轮流。"
+    "note": "保留 a turn；take turns doing sth. 强调多人轮流。",
+    "example": {
+      "english": "Everyone took a turn at stirring the soup.",
+      "chinese": "每个人都轮流搅拌了一次汤。",
+      "highlights": [
+        "took a turn at stirring"
+      ]
+    }
   },
   {
     "id": "p098",
@@ -781,7 +1479,14 @@
     "english": "relative to",
     "chinese": "相对于……；与……相比；关于……",
     "source": "https://dictionary.cambridge.org/dictionary/english/relative",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "The rent is low relative to other flats in this area.",
+      "chinese": "与这一带其他公寓相比，这里的租金较低。",
+      "highlights": [
+        "relative to"
+      ]
+    }
   },
   {
     "id": "p099",
@@ -789,7 +1494,14 @@
     "english": "by doing sth.",
     "chinese": "通过做某事；以做某事的方式",
     "source": "https://dictionary.cambridge.org/dictionary/english/by",
-    "note": "by 后接动词 -ing。"
+    "note": "by 后接动词 -ing。",
+    "example": {
+      "english": "You can save time by preparing your bag the night before.",
+      "chinese": "你可以在前一天晚上收拾好包，以节省时间。",
+      "highlights": [
+        "by preparing"
+      ]
+    }
   },
   {
     "id": "p100",
@@ -797,7 +1509,14 @@
     "english": "be true for / of sb. or sth.",
     "chinese": "对某人或某事同样成立；同样适用",
     "source": "https://dictionary.cambridge.org/dictionary/english/true",
-    "note": "常见搭配 the same is true of/for。"
+    "note": "常见搭配 the same is true of/for。",
+    "example": {
+      "english": "These rooms include breakfast; the same is true for the cheaper rooms.",
+      "chinese": "这些客房的房价包含早餐，较便宜的客房也同样如此。",
+      "highlights": [
+        "is true for"
+      ]
+    }
   },
   {
     "id": "p101",
@@ -805,7 +1524,14 @@
     "english": "such that …",
     "chinese": "使得……；其情况或程度达到……（引出结果或条件）",
     "source": "https://www.merriam-webster.com/dictionary/such",
-    "note": "不等同于表目的的 in order that；区别 such + 名词 + that。"
+    "note": "不等同于表目的的 in order that；区别 such + 名词 + that。",
+    "example": {
+      "english": "The chairs were arranged such that everyone could see the screen.",
+      "chinese": "椅子被摆放得让每个人都能看见屏幕。",
+      "highlights": [
+        "such that"
+      ]
+    }
   },
   {
     "id": "p102",
@@ -813,7 +1539,14 @@
     "english": "at any point",
     "chinese": "在任何时刻；在任何阶段或位置",
     "source": "https://dictionary.cambridge.org/dictionary/english/point",
-    "note": ""
+    "note": "",
+    "example": {
+      "english": "You can pause the lesson at any point and come back later.",
+      "chinese": "你可以在任何时候暂停课程，稍后再继续。",
+      "highlights": [
+        "at any point"
+      ]
+    }
   },
   {
     "id": "p103",
@@ -821,7 +1554,14 @@
     "english": "end up doing sth.",
     "chinese": "最终做了某事；到头来做了某事",
     "source": "https://dictionary.cambridge.org/dictionary/english/end-up",
-    "note": "常暗示并非原先计划的结果。"
+    "note": "常暗示并非原先计划的结果。",
+    "example": {
+      "english": "We meant to cook, but we ended up ordering pizza.",
+      "chinese": "我们原本打算做饭，最后却点了披萨。",
+      "highlights": [
+        "ended up ordering"
+      ]
+    }
   },
   {
     "id": "p104",
@@ -829,7 +1569,15 @@
     "english": "twice as many + plural noun + as …",
     "chinese": "……的数量是……的两倍（接可数名词复数）",
     "source": "https://dictionary.cambridge.org/grammar/british-grammar/as-as",
-    "note": "数量两倍；不是增加两倍。"
+    "note": "数量两倍；不是增加两倍。",
+    "example": {
+      "english": "We sold twice as many tickets as we expected.",
+      "chinese": "我们售出的票数是预期的两倍。",
+      "highlights": [
+        "twice as many",
+        "as"
+      ]
+    }
   },
   {
     "id": "p105",
@@ -837,7 +1585,15 @@
     "english": "convince sb. of sth.",
     "chinese": "使某人确信某事；让某人相信……",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/convince",
-    "note": "结合中文，将首词规范为 convince；of 后接名词性内容。"
+    "note": "结合中文，将首词规范为 convince；of 后接名词性内容。",
+    "example": {
+      "english": "Her explanation convinced me of the need for change.",
+      "chinese": "她的解释让我确信，有必要作出改变。",
+      "highlights": [
+        "convinced",
+        "of"
+      ]
+    }
   },
   {
     "id": "p106",
@@ -845,7 +1601,14 @@
     "english": "reviews",
     "chinese": "评论文章；书评、影评等（review 的复数）",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/review",
-    "note": "按笔记保留名词复数；这里不是动词“复习”的意思。"
+    "note": "按笔记保留名词复数；这里不是动词“复习”的意思。",
+    "example": {
+      "english": "I read several reviews before choosing a book.",
+      "chinese": "选书之前，我读了几篇书评。",
+      "highlights": [
+        "reviews"
+      ]
+    }
   },
   {
     "id": "p107",
@@ -853,7 +1616,14 @@
     "english": "in the press",
     "chinese": "在报刊上；在新闻媒体的报道中",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/in-the-press",
-    "note": "将手写 pres 规范为 press；不是单独的“新闻”。"
+    "note": "将手写 pres 规范为 press；不是单独的“新闻”。",
+    "example": {
+      "english": "The new exhibition received a lot of attention in the press.",
+      "chinese": "这场新展览受到了新闻媒体的广泛关注。",
+      "highlights": [
+        "in the press"
+      ]
+    }
   },
   {
     "id": "p108",
@@ -861,7 +1631,14 @@
     "english": "there are calls for sth.",
     "chinese": "有人呼吁／要求……",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/call",
-    "note": "原文 There were calls for 为过去时；卡片整理为可复用的现在时句型，讲过去的事仍用 were。"
+    "note": "原文 There were calls for 为过去时；卡片整理为可复用的现在时句型，讲过去的事仍用 were。",
+    "example": {
+      "english": "There are calls for a safer crossing outside the school.",
+      "chinese": "有人呼吁在学校外设置一处更安全的人行横道。",
+      "highlights": [
+        "There are calls for"
+      ]
+    }
   },
   {
     "id": "p109",
@@ -869,7 +1646,14 @@
     "english": "bear little resemblance to sth.",
     "chinese": "与某事物几乎不相像；几乎没有相似之处",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/resemblance",
-    "note": "规范 resemblance 拼写；little 是“几乎没有”，不是完全没有。"
+    "note": "规范 resemblance 拼写；little 是“几乎没有”，不是完全没有。",
+    "example": {
+      "english": "The finished building bears little resemblance to the original drawing.",
+      "chinese": "完工后的建筑与最初的图纸几乎不像。",
+      "highlights": [
+        "bears little resemblance to"
+      ]
+    }
   },
   {
     "id": "p110",
@@ -877,7 +1661,15 @@
     "english": "turn A into B",
     "chinese": "把 A 变成 B",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/turn-into",
-    "note": "保留原笔记结构；A、B 表示可替换的人或事物。"
+    "note": "保留原笔记结构；A、B 表示可替换的人或事物。",
+    "example": {
+      "english": "We turned the unused garage into a small studio.",
+      "chinese": "我们把闲置的车库改成了一间小工作室。",
+      "highlights": [
+        "turned",
+        "into"
+      ]
+    }
   },
   {
     "id": "p111",
@@ -885,7 +1677,15 @@
     "english": "owe sth. to sb./sth.",
     "chinese": "把某事的发生或成就归因于／归功于某人或某事",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/owe-to",
-    "note": "对应笔记的因果义，不能笼统翻成“受……影响”；owe 另外还有“欠”的含义，要看宾语与语境。"
+    "note": "对应笔记的因果义，不能笼统翻成“受……影响”；owe 另外还有“欠”的含义，要看宾语与语境。",
+    "example": {
+      "english": "I owe my confidence to my patient teacher.",
+      "chinese": "我的自信要归功于那位耐心的老师。",
+      "highlights": [
+        "owe",
+        "to"
+      ]
+    }
   },
   {
     "id": "p112",
@@ -893,7 +1693,15 @@
     "english": "develop A into B",
     "chinese": "把 A 逐步发展或改造成 B",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/develop",
-    "note": "将原 developed 规范为原形；原句若为过去时仍需 developed。"
+    "note": "将原 developed 规范为原形；原句若为过去时仍需 developed。",
+    "example": {
+      "english": "She developed a simple idea into a successful business.",
+      "chinese": "她把一个简单的想法逐步发展成了一家成功的企业。",
+      "highlights": [
+        "developed",
+        "into"
+      ]
+    }
   },
   {
     "id": "p113",
@@ -901,7 +1709,14 @@
     "english": "X-intensive",
     "chinese": "需要大量 X 投入的；X 密集型的（如 labour-intensive：劳动密集型的）",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/labour-intensive",
-    "note": "构词模式；X 应为适合搭配的资源或投入，如 labour、capital、energy，并非任意名词都自然。"
+    "note": "构词模式；X 应为适合搭配的资源或投入，如 labour、capital、energy，并非任意名词都自然。",
+    "example": {
+      "english": "Making these baskets by hand is labour-intensive.",
+      "chinese": "手工制作这些篮子需要投入大量劳动力。",
+      "highlights": [
+        "labour-intensive"
+      ]
+    }
   },
   {
     "id": "p114",
@@ -909,7 +1724,15 @@
     "english": "pay for sth. outright",
     "chinese": "一次性付清某物的全部价款",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/outright",
-    "note": "补全常用结构；限定在付款语境，outright 还有完全、立即等其他义项。"
+    "note": "补全常用结构；限定在付款语境，outright 还有完全、立即等其他义项。",
+    "example": {
+      "english": "I saved until I could pay for the bike outright.",
+      "chinese": "我一直攒钱，直到能一次性付清那辆自行车的全款。",
+      "highlights": [
+        "pay for",
+        "outright"
+      ]
+    }
   },
   {
     "id": "p115",
@@ -917,6 +1740,14 @@
     "english": "pay for sth. in instalments",
     "chinese": "分期支付某物的价款（美式拼写：installments）",
     "source": "https://dictionary.cambridge.org/us/dictionary/english/pay-for-in-instalments",
-    "note": "原笔记写 pay over＝分期付款。该片段不足以表达此义，可能省略了 time 或时间段；未据此断定原句。按中文意图改用明确的词典搭配。"
+    "note": "原笔记写 pay over＝分期付款。该片段不足以表达此义，可能省略了 time 或时间段；未据此断定原句。按中文意图改用明确的词典搭配。",
+    "example": {
+      "english": "She chose to pay for the laptop in instalments.",
+      "chinese": "她选择分期支付那台笔记本电脑的价款。",
+      "highlights": [
+        "pay for",
+        "in instalments"
+      ]
+    }
   }
 ]

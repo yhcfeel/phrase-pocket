@@ -10,6 +10,23 @@ export function validatePhrase(english, chinese) {
  if(!/[a-z]/i.test(phrase.english)) throw new Error('英语词组需要包含英文字母。');
  return phrase;
 }
+export function validateExample(value){
+ if(value==null)return null;
+ if(typeof value!=='object'||Array.isArray(value)||typeof value.english!=='string'||typeof value.chinese!=='string')throw new Error('请同时填写英文例句和中文翻译。');
+ const english=value.english.trim().replace(/\s+/g,' '),chinese=value.chinese.trim();
+ if(!english&&!chinese)return null;
+ if(!english||!chinese)throw new Error('请同时填写英文例句和中文翻译。');
+ if(english.length>500||chinese.length>500)throw new Error('例句和翻译各最多 500 字符。');
+ if(!/[a-z]/i.test(english))throw new Error('英文例句需要包含英文字母。');
+ const highlights=value.highlights??[];
+ if(!Array.isArray(highlights)||highlights.length>12)throw new Error('例句标记格式有误。');
+ let offset=0;
+ for(const part of highlights){
+  if(typeof part!=='string'||!part||english.indexOf(part,offset)<0)throw new Error('例句标记与句子不一致。');
+  offset=english.indexOf(part,offset)+part.length;
+ }
+ return {english,chinese,highlights};
+}
 export function parseStored(raw) {
  if(raw===null) return {version:1,custom:[],weights:{}};
  let value;
@@ -20,7 +37,8 @@ export function parseStored(raw) {
   if(!item||typeof item.id!=='string'||!/^u-[a-zA-Z0-9-]+$/.test(item.id)||ids.has(item.id))throw new Error('词组数据异常。原数据已保留。');
   const phrase=validatePhrase(item.english,item.chinese),name=normalizeEnglish(phrase.english);
   if(names.has(name))throw new Error('词组数据重复。原数据已保留。');
-  ids.add(item.id);names.add(name);return {id:item.id,...phrase};
+  const example=validateExample(item.example);
+  ids.add(item.id);names.add(name);return {id:item.id,...phrase,...(example?{example}:{})};
  });
  const weights={};
  for(const [id,weight] of Object.entries(value.weights)){
@@ -47,11 +65,12 @@ export function ratePhrase(storage,seed,id,rating) {
  save(storage,{...data,weights:{...data.weights,[id]:weight}});
  return {entries:entries.map(x=>x.id===id?{...x,weight}:x),weight};
 }
-export function addPhrase(storage,seed,english,chinese,id) {
+export function addPhrase(storage,seed,english,chinese,id,exampleInput=null) {
  const phrase=validatePhrase(english,chinese),{data,entries}=loadState(storage,seed);
+ const example=validateExample(exampleInput);
  if(!/^u-[a-zA-Z0-9-]+$/.test(id)||entries.some(x=>x.id===id))throw new Error('词组编号无效，请重试。');
  if(entries.some(x=>normalizeEnglish(x.english)===normalizeEnglish(phrase.english)))throw new Error('这个词组已经在口袋里了。');
- const entry={id,...phrase};
+ const entry={id,...phrase,...(example?{example}:{})};
  save(storage,{...data,custom:[...data.custom,entry]});
  return [...entries,{...entry,weight:1}];
 }

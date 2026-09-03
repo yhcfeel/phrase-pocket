@@ -1,9 +1,11 @@
 import {prepareOffline} from './offline.js';
+import {fitPhraseText,renderHighlights} from './presentation.js';
 import {addPhrase,loadState,ratePhrase,pickPhrase,STORAGE_KEY} from './review.js';
 const el=id=>document.getElementById(id);
 let seed=[],entries=[],current=null,revealed=false,storage=null,ready=false,storageBroken=false,advancing=false;
 function notice(message){el('notice').textContent=message;el('notice').hidden=!message;}
 function feedback(message){el('feedback').textContent=message;}
+function scheduleFit(){window.requestAnimationFrame?.(()=>fitPhraseText(el('phrase-line'),el('english')));}
 function renderEnglish(text){
  const target=el('english');target.replaceChildren();
  target.dataset.length=text.length>65?'very-long':text.length>35?'long':'short';
@@ -14,6 +16,7 @@ function renderEnglish(text){
   const slot=document.createElement('span');slot.className='phrase-slot';slot.textContent=match[0];target.append(slot);start=match.index+match[0].length;
  }
  target.append(document.createTextNode(text.slice(start)));
+ scheduleFit();
 }
 function renderControls(){
  for(const id of ['forgot','remember'])el(id).disabled=!current||advancing||storageBroken;
@@ -24,8 +27,17 @@ function render(){
  renderEnglish(current?.english||(ready?'口袋还是空的':'准备词组…'));
  el('meaning').textContent=current?.chinese||'点右上角 ＋，放入第一个词组。';
  el('meaning').hidden=!revealed;el('reveal-hint').hidden=revealed||!current;
+ const example=current?.example;
+ el('example').hidden=!revealed||!example;
+ let highlights=example?.highlights||[];
+ if(example&&!highlights.length&&current?.english){
+  const index=example.english.toLocaleLowerCase('en').indexOf(current.english.toLocaleLowerCase('en'));
+  if(index>=0)highlights=[example.english.slice(index,index+current.english.length)];
+ }
+ renderHighlights(el('example-english'),example?.english||'',highlights);
+ el('example-chinese').textContent=example?.chinese||'';
  el('card').setAttribute('aria-expanded',String(revealed));
- el('card').setAttribute('aria-label',current?current.english+'，'+(revealed?'点击收起释义':'点击查看释义'):'暂无词组');
+ el('card').setAttribute('aria-label',current?current.english+'，'+(revealed?current.chinese+(example?'。例句：'+example.english+'。'+example.chinese:'')+'。点击收起':'点击查看释义和例句'):'暂无词组');
  el('card').disabled=!current;
  el('card-bottom').textContent=revealed?'再看一眼，也是一种进步':'先回想，再揭晓';
  renderControls();
@@ -46,10 +58,10 @@ function rate(rating){
  return true;
  }catch(error){notice(error.message);return false}
 }
-function add(english,chinese){
+function add(english,chinese,example=null){
  if(!storage||storageBroken)throw new Error('本机存储暂不可用。');
  const id='u-'+crypto.randomUUID();
- entries=addPhrase(storage,seed,english,chinese,id);
+ entries=addPhrase(storage,seed,english,chinese,id,example);
  if(!current)current=pickPhrase(entries);
  notice('');render();feedback('已放进口袋，下次可能就会遇见。');
  return {id,english:entries[entries.length-1].english};
@@ -65,7 +77,7 @@ el('add-dialog').addEventListener('close',()=>el('open-add').focus());
 el('add-dialog').addEventListener('click',event=>{if(event.target===el('add-dialog')){const r=el('add-dialog').getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)el('add-dialog').close()}});
 el('add-form').addEventListener('submit',event=>{
  event.preventDefault();
- try{add(el('new-english').value,el('new-chinese').value);el('add-form').reset();el('add-dialog').close();}
+ try{add(el('new-english').value,el('new-chinese').value,{english:el('new-example-english').value,chinese:el('new-example-chinese').value});el('add-form').reset();el('add-dialog').close();}
  catch(error){el('form-error').textContent=error.message;el('form-error').hidden=false;}
 });
 window.addEventListener('storage',event=>{
@@ -92,4 +104,7 @@ function registerTools(){
  for(const tool of tools){try{Promise.resolve(context.registerTool(tool,{signal:lifecycle.signal})).catch(()=>{})}catch{}}
  window.addEventListener('pagehide',()=>lifecycle.abort(),{once:true});
 }
+window.addEventListener('resize',scheduleFit);
+if(typeof ResizeObserver!=='undefined')new ResizeObserver(scheduleFit).observe(el('phrase-line'));
+document.fonts?.ready.then(scheduleFit);
 init();prepareOffline();
